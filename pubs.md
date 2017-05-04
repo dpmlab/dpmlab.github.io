@@ -5,7 +5,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:100px">Image</td>
 <td>C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> bioRxiv, 2016.
-<br>[bioRxiv link](http://dx.doi.org/10.1101/081018)</td>
+<br><a href="http://dx.doi.org/10.1101/081018">[bioRxiv link]</a></td>
 </tr>
 </table>
 
