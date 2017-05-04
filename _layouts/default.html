@@ -14,16 +14,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="logo_small.gif">
-        <ul>
-          <li><a href="pubs.html"><strong>News</strong></a></li>
-          <li><a href="pubs.html"><strong>Research</strong></a></li>
-        </ul>
-        <ul>
-          <li><a href="pubs.html"><strong>People</strong></a></li>
-          <li><a href="pubs.html"><strong>Publications</strong></a></li>
-        </ul>
-
+        <a href="index.html"><img src="logo_small.gif"></a>
+        <p><a href="pubs.html"><strong>News</strong></a></p>
+        <p><a href="pubs.html"><strong>Research</strong></a></p>
+        <p><a href="pubs.html"><strong>People</strong></a></p>
+        <p><a href="pubs.html"><strong>Publications</strong></a></p>
+        
         {% if site.show_downloads %}
           <ul>
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
