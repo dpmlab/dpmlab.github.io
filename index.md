@@ -1,3 +1,3 @@
-## Dynamic Perception and Memory Lab at Columbia
+## Columbia Dynamic Perception and Memory Lab
 ![Top pic](columbia_prim.png)
 
