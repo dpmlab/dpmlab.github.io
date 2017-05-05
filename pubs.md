@@ -16,37 +16,49 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <br><a href="http://dx.doi.org/10.1523/ENEURO.0178-16.2016">[journal link]</a> | <a href="ENEURO.0178-16.2016.full.pdf">[pdf]</a></td>
 <td style="width:70px">Image</td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:70px">Image</td>
 <td style="width:410px">C. Baldassano, L. Fei-Fei, D.M. Beck. <i>"Pinpointing the peripheral bias in neural scene-processing networks during natural viewing."</i> Journal of Vision, 2016.
 <br><a href="http://jov.arvojournals.org/article.aspx?articleid=2524115">[journal link]</a> | <a href="JOV16.pdf">[pdf]</a> | <a href="JOV16_supp.pdf">[supplementary pdf]</a></td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Human–Object Interactions Are More than the Sum of Their Parts."</i> Cerebral Cortex, 2016.
 <br><a href="http://cercor.oxfordjournals.org/cgi/reprint/bhw077?ijkey=iUBNzaBCkEO1hN4&keytype=ref">[free-access journal link]</a> | <a href="CC2016.pdf">[pdf]</a> | <a href="CC2016-supp.pdf">[supplementary pdf]</a></td>
 <td style="width:70px">Image</td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:70px">Image</td>
 <td style="width:410px">M.R. Greene, C. Baldassano, A. Esteva, D.M. Beck, L. Fei-Fei. <i>"Visual scenes are categorized by function."</i> Journal of Experimental Psychology: General, 2016.
 <br><a href="http://psycnet.apa.org/journals/xge/145/1/82/">[journal link]</a> | <a href="JEPG2016.pdf">[pdf]</a> | <a href="JEPG2016_supplemental.pdf">[supplementary pdf]</a></td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Parcellating connectivity in spatial maps."</i> PeerJ, 2015.
 <br><a href="https://peerj.com/articles/784/">[journal link]</a> | <a href="peerj-784.pdf">[pdf]</a> | <a href="peerj-784-supp.pdf">[supplementary pdf]</a></td>
 <td style="width:70px">Image</td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:70px">Image</td>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Differential Connectivity Within the Parahippocampal Place Area."</i> NeuroImage, 2013.
 <br><a href="http://www.sciencedirect.com/science/article/pii/S1053811913002280">[journal link]</a> | <a href="NI2013.pdf">[pdf]</a> | <a href="NI_supplemental2013.pdf">[supplementary pdf]</a></td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td style="width:410px">C. Baldassano, M.C. Iordan, D.M. Beck, L. Fei-Fei. <i>"Voxel-Level Functional Connectivity using Spatial Regularization."</i> NeuroImage, 2012.
 <br><a href="http://www.sciencedirect.com/science/article/pii/S1053811912007756">[journal link]</a> | <a href="NI2012.pdf">[pdf]</a> | <a href="NI_supplemental.pdf">[supplementary pdf]</a></td>
