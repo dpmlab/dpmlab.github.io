@@ -29,7 +29,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Human–Object Interactions Are More than the Sum of Their Parts."</i> Cerebral Cortex, 2016.
-<br><a href="http://cercor.oxfordjournals.org/cgi/reprint/bhw077?ijkey=iUBNzaBCkEO1hN4&keytype=ref">[free-access journal link]</a> | <a href="CC2016.pdf">[pdf]</a> | <a href="CC2016-supp.pdf">[supplementary pdf]</a></td>
+<br><a href="https://academic.oup.com/cercor/article/27/3/2276/3056311/Human-Object-Interactions-Are-More-than-the-Sum-of">[journal link]</a> | <a href="CC2016.pdf">[pdf]</a> | <a href="CC2016-supp.pdf">[supplementary pdf]</a></td>
 <td style="width:70px"><img src="icon_human.png"></td>
 </tr>
 </table>
