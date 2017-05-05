@@ -14,7 +14,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:410px">C. Baldassano, A. Esteva, L. Fei-Fei, D.M. Beck. <i>"Two distinct scene processing networks connecting vision and memory."</i> eNeuro, 2016.
 <br><a href="http://dx.doi.org/10.1523/ENEURO.0178-16.2016">[journal link]</a> | <a href="ENEURO.0178-16.2016.full.pdf">[pdf]</a></td>
-<td style="width:70px"><img src="icon_twonet.png"</td>
+<td style="width:70px"><img src="icon_twonet.png"></td>
 </tr>
 </table>
 
@@ -30,7 +30,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Human–Object Interactions Are More than the Sum of Their Parts."</i> Cerebral Cortex, 2016.
 <br><a href="http://cercor.oxfordjournals.org/cgi/reprint/bhw077?ijkey=iUBNzaBCkEO1hN4&keytype=ref">[free-access journal link]</a> | <a href="CC2016.pdf">[pdf]</a> | <a href="CC2016-supp.pdf">[supplementary pdf]</a></td>
-<td style="width:70px"><img src="icon_human.png"</td>
+<td style="width:70px"><img src="icon_human.png"></td>
 </tr>
 </table>
 
