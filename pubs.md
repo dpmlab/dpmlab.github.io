@@ -1,7 +1,15 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
 ## Manuscript Preprints
-<table style="width:100%">
+<table>
+<tr>
+<td style="width:410px">K. Vodrahalli, P.H. Chen, Y. Liang, C. Baldassano, J. Chen, E. Yong, C. Honey, U. Hasson, P. Ramadge, K. Norman, S. Arora <i>"Mapping Between fMRI Responses to Movies and their Natural Language Annotations."</i> arXiv, 2017.
+<br><a href="https://arxiv.org/abs/1610.03914">[arXiv link]</a></td>
+<td style="width:70px"><img src="icon_mapping.png"></td>
+</tr>
+</table>
+
+<table>
 <tr>
 <td style="width:70px"><img src="icon_event.png"></td>
 <td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> bioRxiv, 2016.
@@ -10,7 +18,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </table>
 
 ## Refereed Publications
-<table style="width:100%">
+<table>
 <tr>
 <td style="width:410px">C. Baldassano, A. Esteva, L. Fei-Fei, D.M. Beck. <i>"Two distinct scene processing networks connecting vision and memory."</i> eNeuro, 2016.
 <br><a href="http://dx.doi.org/10.1523/ENEURO.0178-16.2016">[journal link]</a> | <a href="ENEURO.0178-16.2016.full.pdf">[pdf]</a></td>
