@@ -18,4 +18,4 @@
 * Maps from Baldassano et al. (2016), "Human–Object Interactions Are More than the Sum of Their Parts." <a href="HumanObjectMaps.zip">[zip]</a>
 
 ## Stimuli
-* Stimulus sets from Baldassano et al. (2016), "Human–Object Interactions Are More than the Sum of Their Parts." <a href="Exp1.zip">[Experiment 1, zip]</a>, <a href="Exp2.zip">[Experiment 2, zip]</a>
+* Stimulus sets from Baldassano et al. (2016), "Human–Object Interactions Are More than the Sum of Their Parts." <a href="https://figshare.com/articles/Human-Object_Stimuli_Experiment_1/5213320">[Experiment 1]</a>, <a href="https://figshare.com/articles/Human-Object_Stimuli_Experiment_2/5213350">[Experiment 2, zip]</a>
