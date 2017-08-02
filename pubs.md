@@ -1,15 +1,14 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
-## Manuscript Preprints
+## Refereed Publications
 <table>
 <tr>
-<td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> bioRxiv, 2016.
-<br><a href="http://dx.doi.org/10.1101/081018">[bioRxiv link]</a></td>
+<td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> Neuron, 2017.
+<br><a href="https://authors.elsevier.com/a/1VUOe3BtfGld9H">[journal link]</a></td>
 <td style="width:70px"><img src="icon_event.png"></td>
 </tr>
 </table>
 
-## Refereed Publications
 <table>
 <tr>
 <td style="width:70px"><img src="icon_mapping.png"></td>
