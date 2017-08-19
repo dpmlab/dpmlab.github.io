@@ -12,7 +12,7 @@
 <table style="width:100%">
 <tr>
 <td style="width:280px"><img src="question.png"></td>
-<td style="width:200px"><b>We're hiring!</b> If you are interested in joining the lab as a PhD or postdoc, send an email to ColumbiaDPML@gmail.com
+<td style="width:200px"><b>We're hiring!</b> If you are interested in joining the lab as a PhD, postdoc, or research assistant, send an email to ColumbiaDPML@gmail.com
 <br>
 </td>
 </tr>
