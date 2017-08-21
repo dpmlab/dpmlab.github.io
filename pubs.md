@@ -13,7 +13,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icon_mapping.png"></td>
 <td style="width:410px">K. Vodrahalli, P.H. Chen, Y. Liang, C. Baldassano, J. Chen, E. Yong, C. Honey, U. Hasson, P. Ramadge, K. Norman, S. Arora. <i>"Mapping Between fMRI Responses to Movies and their Natural Language Annotations."</i> NeuroImage, 2017.
-<br><a href="http://www.sciencedirect.com/science/article/pii/S1053811917305128">[journal link]</a></td>
+<br><a href="http://www.sciencedirect.com/science/article/pii/S1053811917305128">[journal link]</a> | <a href="NeuroImage17.pdf">[pdf]</a></td>
 </tr>
 </table>
 
