@@ -2,7 +2,7 @@
 ![Top pic](columbia_prim_crop.png)
 
 ### News
-* The Columbia DPM Lab will be officially opening July 2018! Prospective PhD students, postdocs, or research assistants, please email ColumbiaDPML@gmail.com
+* The Columbia DPM Lab will be officially opening July 2018!
 * New work by lab PI Chris Baldassano, on fMRI similarities between stories/movies with shared schematic scripts:
     * [Paper preprint](http://bit.ly/2FefbhY)
     * [TEDx talk](http://bit.ly/2GgG2vd)
