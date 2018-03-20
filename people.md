@@ -8,12 +8,3 @@
 <td style="width:200px"><img src="headshot4.JPG"></td>
 </tr>
 </table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><img src="question.png"></td>
-<td style="width:200px"><b>We're hiring!</b> If you are interested in joining the lab as a PhD, postdoc, or research assistant, send an email to ColumbiaDPML@gmail.com
-<br>
-</td>
-</tr>
-</table>
