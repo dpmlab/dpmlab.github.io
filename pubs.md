@@ -1,9 +1,26 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
+## Public Preprints
+<table>
+<tr>
+<td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> bioRxiv, 2018.
+<br><a href="https://www.biorxiv.org/content/early/2018/01/24/252718">[journal link]</a> | <a href="252718.full.pdf">[pdf]</a></td>
+<td style="width:70px"><img src="icon_schema.png"></td>
+</tr>
+</table>
+
 ## Refereed Publications
 <table>
 <tr>
-<td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> Neuron, 2017.
+<td style="width:70px"><img src="icon_iris.png"></td>
+<td style="width:410px">I.I.A. Groen, M.R. Greene, C. Baldassano, L. Fei-Fei, L., D.M. Beck, C.I. Baker. <i>"Distinct contributions of functional and deep neural network features to representational similarity of scenes in human brain and behavior."</i> eLife, 2018.
+<br><a href="https://elifesciences.org/articles/32962">[journal link]</a> | <a href="elife-32962-v2.pdf">[pdf]</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K.A. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> Neuron, 2017.
 <br><a href="https://authors.elsevier.com/a/1VUOe3BtfGld9H">[journal link]</a> | <a href="Neuron17.pdf">[pdf w/ supplementary]</a></td>
 <td style="width:70px"><img src="icon_event.png"></td>
 </tr>
@@ -12,7 +29,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icon_mapping.png"></td>
-<td style="width:410px">K. Vodrahalli, P.H. Chen, Y. Liang, C. Baldassano, J. Chen, E. Yong, C. Honey, U. Hasson, P. Ramadge, K. Norman, S. Arora. <i>"Mapping Between fMRI Responses to Movies and their Natural Language Annotations."</i> NeuroImage, 2017.
+<td style="width:410px">K. Vodrahalli, P.H. Chen, Y. Liang, C. Baldassano, J. Chen, E. Yong, C. Honey, U. Hasson, P. Ramadge, K.A. Norman, S. Arora. <i>"Mapping Between fMRI Responses to Movies and their Natural Language Annotations."</i> NeuroImage, 2017.
 <br><a href="http://www.sciencedirect.com/science/article/pii/S1053811917305128">[journal link]</a> | <a href="NeuroImage17.pdf">[pdf]</a></td>
 </tr>
 </table>
