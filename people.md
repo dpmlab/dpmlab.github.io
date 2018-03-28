@@ -31,7 +31,7 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"><img src="img/hanna.png"></td>
+<td style="width:200px"><img src="img/hannah.png"></td>
 <td style="width:280px"><b>Hannah Tarder-Stoll</b>, PhD student: Before starting at Columbia, Hannah received an Honours BSc from the University of Toronto in 2018 with a double major in psychology and neuroscience. She is interested in the modulation of episodic memory and how the hippocampus interacts with prefrontal regions to integrate new information into previous memory stores.
 <br>
 </td>

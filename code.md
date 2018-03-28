@@ -3,7 +3,7 @@
 
 * **MVPA Decoding:** [MATLAB code](https://github.com/cbaldassano/MVPA-Decoding) for performing category decoding from ROIs or whole-brain searchlights.
 
-* **Parcellation of Brain Connectivity:** [MATLAB and python code]](https://github.com/cbaldassano/Parcellating-connectivity/tree/release) implementing spatially-coherent clustering methods from "Parcellating connectivity in spatial maps." A demo function on synthetic data is included.
+* **Parcellation of Brain Connectivity:** [MATLAB and python code](https://github.com/cbaldassano/Parcellating-connectivity/tree/release) implementing spatially-coherent clustering methods from "Parcellating connectivity in spatial maps." A demo function on synthetic data is included.
 
 * **Event Segmentation:** Implementations of the event segmentation model described in "Discovering event structure in continuous narrative perception and memory." The python version is available as part of the [Brain Imaging Analysis Kit](https://github.com/IntelPNI/brainiak), and the MATLAB version is hosted on [GitHub](https://github.com/cbaldassano/Event-Segmentation).
 
