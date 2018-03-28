@@ -1,9 +1,9 @@
 ## Code
-* [**Voxel-Level Functional Connectivity:**](https://github.com/cbaldassano/Voxel-Level-Functional-Connectivity) MATLAB code implementing functional connectivity methods from "Voxel-Level Functional Connectivity using Spatial Regularization" and "Discovering Voxel-Level Functional Connectivity Between Cortical Regions." Sample data and a demo function are included.
+* **Voxel-Level Functional Connectivity:** [MATLAB code](https://github.com/cbaldassano/Voxel-Level-Functional-Connectivity) implementing functional connectivity methods from "Voxel-Level Functional Connectivity using Spatial Regularization" and "Discovering Voxel-Level Functional Connectivity Between Cortical Regions." Sample data and a demo function are included.
 
-* [**MVPA Decoding:**](https://github.com/cbaldassano/MVPA-Decoding) MATLAB code for performing category decoding from ROIs or whole-brain searchlights.
+* **MVPA Decoding:** [MATLAB code](https://github.com/cbaldassano/MVPA-Decoding) for performing category decoding from ROIs or whole-brain searchlights.
 
-* [**Parcellation of Brain Connectivity:**](https://github.com/cbaldassano/Parcellating-connectivity/tree/release) MATLAB and python code implementing spatially-coherent clustering methods from "Parcellating connectivity in spatial maps." A demo function on synthetic data is included.
+* **Parcellation of Brain Connectivity:** [MATLAB and python code]](https://github.com/cbaldassano/Parcellating-connectivity/tree/release) implementing spatially-coherent clustering methods from "Parcellating connectivity in spatial maps." A demo function on synthetic data is included.
 
 * **Event Segmentation:** Implementations of the event segmentation model described in "Discovering event structure in continuous narrative perception and memory." The python version is available as part of the [Brain Imaging Analysis Kit](https://github.com/IntelPNI/brainiak), and the MATLAB version is hosted on [GitHub](https://github.com/cbaldassano/Event-Segmentation).
 
