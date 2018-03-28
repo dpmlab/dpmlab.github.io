@@ -50,7 +50,7 @@
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/reblando_close.jpeg"></td>
-<td style="width:280px"><b>Alexandra M. Reblando</b>, Research assistant: Alex enjoys contemplating the forms of schemas: their creation, machinations, and interaction with perception and memory. In repose, she works on expanding her own schemas particularly those of art museums, restaurants, and dingy music venues.
+<td style="width:280px"><b>Alexandra Reblando</b>, Research assistant: Alex enjoys contemplating the forms of schemas: their creation, machinations, and interaction with perception and memory. In repose, she works on expanding her own schemas particularly those of art museums, restaurants, and dingy music venues.
 <br>
 </td>
 </tr>
