@@ -1,5 +1,5 @@
 ## Columbia Dynamic Perception and Memory Lab
-![Top pic](columbia_prim_crop.png)
+![Top pic](img/columbia_prim_crop.png)
 
 ### News
 * The Columbia DPM Lab will be officially opening July 2018!

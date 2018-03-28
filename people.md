@@ -5,6 +5,6 @@
 <br><a href="http://blog.chrisbaldassano.com/">Personal Blog</a>
 <br>
 </td>
-<td style="width:200px"><img src="headshot4.JPG"></td>
+<td style="width:200px"><img src="img/headshot4.JPG"></td>
 </tr>
 </table>
