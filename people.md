@@ -21,7 +21,7 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Samantha Cohen</b>, Postdoc: Samantha completed a PhD in Psychology in the lab of Dr. Lucas Parra at The City University of New York. During her time there she used EEG responses to dynamic naturalistic videos to better understand the modulation of attention and memory.
+<td style="width:280px"><b>Samantha Cohen</b>, Postdoc: Samantha completed a PhD in Psychology in the lab of Dr. Lucas Parra at The City University of New York. During her time there, she used EEG responses to dynamic naturalistic videos to better understand the modulation of attention and memory.
 <br><a href="https://www.parralab.org/people/samantha/">Personal Website</a>
 <br>
 </td>
