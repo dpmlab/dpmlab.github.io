@@ -9,9 +9,11 @@
 
 ## Datasets
 * Baldassano et al. (2016), "Human–Object Interactions Are More than the Sum of Their Parts."
-    * [Raw data (Experiment 2) in BIDS format](https://openneuro.org/datasets/ds001235/)
-    * [Decoding maps](resources/HumanObjectMaps.zip)
     * Stimuli: [Experiment 1](https://figshare.com/articles/Human-Object_Stimuli_Experiment_1/5213320), [Experiment 2](https://figshare.com/articles/Human-Object_Stimuli_Experiment_2/5213350)
+    * [Raw data (Experiment 2) in BIDS format](https://openneuro.org/datasets/ds001235/)
+        * [ROI data (Matlab)](https://doi.org/10.6084/m9.figshare.6128000.v1)
+    * [Decoding maps](resources/HumanObjectMaps.zip)
+    
 
 ## Cortical Atlases
 * **172-parcel atlas** from Baldassano et al. (2015), "Parcellating connectivity in spatial maps," derived from the original S500 group eigenmap release from the Human Connectome Project.
