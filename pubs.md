@@ -4,7 +4,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> bioRxiv, 2018.
-<br><a href="https://www.biorxiv.org/content/early/2018/01/24/252718">[journal link]</a> | <a href="papers/252718.full.pdf">[pdf]</a></td>
+<br><a href="https://www.biorxiv.org/content/early/2018/07/25/252718">[bioRxiv link]</a> | <a href="papers/252718.full.pdf">[pdf]</a></td>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
 </tr>
 </table>
