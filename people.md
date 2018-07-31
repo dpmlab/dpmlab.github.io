@@ -55,3 +55,12 @@
 </td>
 </tr>
 </table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Sophia Africk</b>, Summer intern: Sophia is a senior at Trinity School in New York City, where she is interested in math and psychology.  In her free time, she enjoys trying new restaurants around the city.
+<br>
+</td>
+<td style="width:200px"><img src="img/sophia.jpg"></td>
+</tr>
+</table>
