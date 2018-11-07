@@ -20,7 +20,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K.A. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> Neuron, 2017.
-<br><a href="https://doi.org/10.1016/j.neuron.2017.06.041">[journal link]</a> | <a href="papers/Neuron17.pdf">[pdf w/ supplementary]</a></td>
+<br><a href="https://doi.org/10.1016/j.neuron.2017.06.041">[journal link]</a> | <a href="papers/Neuron17.pdf">[pdf w/ supplementary]</a>
+  <br><a href="https://github.com/IntelPNI/brainiak">Python code</a> | <a href="https://github.com/cbaldassano/Event-Segmentation">MATLAB code</a></td>
 <td style="width:70px"><img src="icons/icon_event.png"></td>
 </tr>
 </table>
@@ -36,7 +37,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, A. Esteva, L. Fei-Fei, D.M. Beck. <i>"Two distinct scene processing networks connecting vision and memory."</i> eNeuro, 2016.
-<br><a href="http://dx.doi.org/10.1523/ENEURO.0178-16.2016">[journal link]</a> | <a href="papers/ENEURO.0178-16.2016.full.pdf">[pdf]</a></td>
+<br><a href="http://dx.doi.org/10.1523/ENEURO.0178-16.2016">[journal link]</a> | <a href="papers/ENEURO.0178-16.2016.full.pdf">[pdf]</a>
+  <br><a href="resources/twoNetworks.nii.gz">Two-network atlas</a></td>
 <td style="width:70px"><img src="icons/icon_twonet.png"></td>
 </tr>
 </table>
@@ -45,7 +47,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_periph.png"></td>
 <td style="width:410px">C. Baldassano, L. Fei-Fei, D.M. Beck. <i>"Pinpointing the peripheral bias in neural scene-processing networks during natural viewing."</i> Journal of Vision, 2016.
-<br><a href="http://jov.arvojournals.org/article.aspx?articleid=2524115">[journal link]</a> | <a href="papers/JOV16.pdf">[pdf]</a> | <a href="papers/JOV16_supp.pdf">[supplementary pdf]</a></td>
+<br><a href="http://jov.arvojournals.org/article.aspx?articleid=2524115">[journal link]</a> | <a href="papers/JOV16.pdf">[pdf]</a> | <a href="papers/JOV16_supp.pdf">[supplementary pdf]</a>
 </tr>
 </table>
 
@@ -71,7 +73,10 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Parcellating connectivity in spatial maps."</i> PeerJ, 2015.
-<br><a href="https://peerj.com/articles/784/">[journal link]</a> | <a href="papers/peerj-784.pdf">[pdf]</a> | <a href="papers/peerj-784-supp.pdf">[supplementary pdf]</a></td>
+<br><a href="https://peerj.com/articles/784/">[journal link]</a> | <a href="papers/peerj-784.pdf">[pdf]</a> | <a href="papers/peerj-784-supp.pdf">[supplementary pdf]</a>
+  <br> <a href="https://github.com/cbaldassano/Parcellating-connectivity/tree/release">MATLAB and python code</a>
+  <br> <a href="resources/Atlas172.dscalar.nii">Surface atlas (CIFTI-2)</a> | <a href="resources/Atlas172.nii">Volumetric atlas</a> | <a href="resources/Atlas172_PPA.nii">Volumetric atlas (PPA only)</a>
+</td>
 <td style="width:70px"><img src="icons/icon_conn.png"></td>
 </tr>
 </table>
@@ -96,7 +101,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_reg.png"></td>
 <td style="width:410px">C. Baldassano, M.C. Iordan, D.M. Beck, L. Fei-Fei. <i>"Voxel-Level Functional Connectivity using Spatial Regularization."</i> NeuroImage, 2012.
-<br><a href="http://www.sciencedirect.com/science/article/pii/S1053811912007756">[journal link]</a> | <a href="papers/NI2012.pdf">[pdf]</a> | <a href="papers/NI_supplemental.pdf">[supplementary pdf]</a></td>
+<br><a href="http://www.sciencedirect.com/science/article/pii/S1053811912007756">[journal link]</a> | <a href="papers/NI2012.pdf">[pdf]</a> | <a href="papers/NI_supplemental.pdf">[supplementary pdf]</a>
+  <br><a href="https://github.com/cbaldassano/Voxel-Level-Functional-Connectivity">MATLAB code</a></td>
 </tr>
 </table>
 
