@@ -5,8 +5,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> Journal of Neuroscience, 2018.
 <br><a href="https://doi.org/10.1523/JNEUROSCI.0251-18.2018">[journal link]</a> | <a href="papers/9689.full.pdf">[pdf]</a>
-  <br><a href="https://figshare.com/articles/Event_Schema_Stimuli/5760306/3">Stimuli</a>
-  <br><a href="https://doi.org/10.24433/CO.a27d1d90-d227-4600-b876-051a801c7c20.v3">Code and data capsule</a>
+  <br><a href="https://figshare.com/articles/Event_Schema_Stimuli/5760306/3">Stimuli</a> | <a href="https://doi.org/10.24433/CO.a27d1d90-d227-4600-b876-051a801c7c20.v3">Code and data capsule</a>
   <br><a href="http://www.doi.org/10.18112/openneuro.ds001510.v1.0.1">Raw data (Main)</a> | <a href="http://www.doi.org/10.18112/openneuro.ds001511.v1.0.1">Raw data (Control)</a>
 </td>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
