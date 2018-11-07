@@ -1,6 +1,6 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
-## Refereed Publications
+## Publications and Resources
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> Journal of Neuroscience, 2018.
@@ -52,7 +52,10 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, D.M. Beck, L. Fei-Fei. <i>"Human–Object Interactions Are More than the Sum of Their Parts."</i> Cerebral Cortex, 2016.
-<br><a href="https://academic.oup.com/cercor/article/27/3/2276/3056311/Human-Object-Interactions-Are-More-than-the-Sum-of">[journal link]</a> | <a href="papers/CC2016.pdf">[pdf]</a> | <a href="papers/CC2016-supp.pdf">[supplementary pdf]</a></td>
+<br><a href="https://academic.oup.com/cercor/article/27/3/2276/3056311/Human-Object-Interactions-Are-More-than-the-Sum-of">[journal link]</a> | <a href="papers/CC2016.pdf">[pdf]</a> | <a href="papers/CC2016-supp.pdf">[supplementary pdf]</a>
+  <br> <a href="https://figshare.com/articles/Human-Object_Stimuli_Experiment_1/5213320">Experiment 1 Stimuli</a> | <a href="https://figshare.com/articles/Human-Object_Stimuli_Experiment_2/5213350">Experiment 2 Stimuli</a>
+  <br> <a href="https://openneuro.org/datasets/ds001235/">Experiment 2 raw data</a> | <a href="https://doi.org/10.6084/m9.figshare.6128000.v1">ROI data (Matlab)</a>
+  <br> <a href="resources/HumanObjectMaps.zip">Decoding maps</a></td>
 <td style="width:70px"><img src="icons/icon_human.png"></td>
 </tr>
 </table>
