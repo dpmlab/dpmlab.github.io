@@ -47,7 +47,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_periph.png"></td>
 <td style="width:410px">C. Baldassano, L. Fei-Fei, D.M. Beck. <i>"Pinpointing the peripheral bias in neural scene-processing networks during natural viewing."</i> Journal of Vision, 2016.
-<br><a href="http://jov.arvojournals.org/article.aspx?articleid=2524115">[journal link]</a> | <a href="papers/JOV16.pdf">[pdf]</a> | <a href="papers/JOV16_supp.pdf">[supplementary pdf]</a>
+<br><a href="http://jov.arvojournals.org/article.aspx?articleid=2524115">[journal link]</a> | <a href="papers/JOV16.pdf">[pdf]</a> | <a href="papers/JOV16_supp.pdf">[supplementary pdf]</a></td>
 </tr>
 </table>
 
