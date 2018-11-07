@@ -1,15 +1,14 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
-## Public Preprints
+## Refereed Publications
 <table>
 <tr>
-<td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> bioRxiv, 2018.
-<br><a href="https://www.biorxiv.org/content/early/2018/07/25/252718">[bioRxiv link]</a> | <a href="papers/252718.full.pdf">[pdf]</a></td>
+<td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> Journal of Neuroscience, 2018.
+<br><a href="https://doi.org/10.1523/JNEUROSCI.0251-18.2018">[journal link]</a> | <a href="papers/9689.full.pdf">[pdf]</a></td>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
 </tr>
 </table>
 
-## Refereed Publications
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_iris.png"></td>
@@ -21,7 +20,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, J. Chen, A. Zadbood, J.W. Pillow, U. Hasson, K.A. Norman. <i>"Discovering event structure in continuous narrative perception and memory."</i> Neuron, 2017.
-<br><a href="https://authors.elsevier.com/a/1VUOe3BtfGld9H">[journal link]</a> | <a href="papers/Neuron17.pdf">[pdf w/ supplementary]</a></td>
+<br><a href="https://doi.org/10.1016/j.neuron.2017.06.041">[journal link]</a> | <a href="papers/Neuron17.pdf">[pdf w/ supplementary]</a></td>
 <td style="width:70px"><img src="icons/icon_event.png"></td>
 </tr>
 </table>
