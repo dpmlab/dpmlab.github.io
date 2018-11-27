@@ -50,7 +50,7 @@
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/reblando_close.jpeg"></td>
-<td style="width:280px"><b>Alexandra Reblando</b>, Research assistant: Alex enjoys contemplating the forms of schemas: their creation, machinations, and interaction with perception and memory. In repose, she works on expanding her own schemas particularly those of art museums, restaurants, and dingy music venues.
+<td style="width:280px"><b>Alexandra Reblando</b>, Research assistant and Lab manager: Alex enjoys contemplating the forms of schemas: their creation, machinations, and interaction with perception and memory. In repose, she works on expanding her own schemas particularly those of art museums, restaurants, and dingy music venues.
 <br>
 </td>
 </tr>
@@ -58,9 +58,18 @@
 
 <table style="width:100%">
 <tr>
+<td style="width:280px"><b>Caroline Lee</b>, Volunteer research assistant: Caroline finished her MS in Computer Science at NYU's Courant Institute in 2017. She is interested in how the brain organizes and represents semantic structure and the use of machine-learning based joint-modeling approaches to explain the dynamics of brain and behavior. Her spare time is spent debugging TensorFlow code in Pat Shafto’s lab and attempting to play classical guitar.
+<br>
+</td>
+<td style="width:200px"><img src="img/caroline.jpg"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/sophia.jpg"></td>
 <td style="width:280px"><b>Sophia Africk</b>, Summer intern: Sophia is a senior at Trinity School in New York City, where she is interested in math and psychology.  In her free time, she enjoys trying new restaurants around the city.
 <br>
 </td>
-<td style="width:200px"><img src="img/sophia.jpg"></td>
 </tr>
 </table>
