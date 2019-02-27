@@ -1,5 +1,24 @@
 Copyright Notice: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights are retained by authors or by other copyright holders.
 
+## Public Preprints
+<table>
+<tr>
+<td style="width:410px">C. Chen, Q. Lu, Andre Beukers, C. Baldassano, K. Norman. <i>"Learning to Apply Schematic Knowledge to Novel Instances."</i> arXiv, 2019.
+<br><a href="https://arxiv.org/abs/1902.09006">[arXiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_chen.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:70px"><img src="icons/icon_silva.png"></td>
+<td style="width:410px">M. Silva, C. Baldassano, L. Fuentemilla. <i>"Rapid memory reactivation at movie event boundaries promotes episodic encoding."</i> bioRxiv, 2019.
+<br><a href="https://www.biorxiv.org/content/10.1101/511782v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
 ## Publications and Resources
 <table>
 <tr>
