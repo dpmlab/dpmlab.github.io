@@ -4,7 +4,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_sim.png"></td>
-<td style="width:410px">C. Ellis, C. Baldassano, A.C. Schapiro, M.B. Cai, J.D. Cohen. <i>"acilitating open-science with realistic fMRI simulation: validation and application."</i> bioRxiv, 2019.
+<td style="width:410px">C. Ellis, C. Baldassano, A.C. Schapiro, M.B. Cai, J.D. Cohen. <i>"Facilitating open-science with realistic fMRI simulation: validation and application."</i> bioRxiv, 2019.
 <br><a href="https://www.biorxiv.org/content/10.1101/532424v2">[bioRxiv link]</a>
 </td>
 </tr>
