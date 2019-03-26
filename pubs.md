@@ -3,7 +3,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:410px">C. Chen, Q. Lu, Andre Beukers, C. Baldassano, K. Norman. <i>"Learning to Apply Schematic Knowledge to Novel Instances."</i> arXiv, 2019.
+<td style="width:70px"><img src="icons/icon_sim.png"></td>
+<td style="width:410px">C. Ellis, C. Baldassano, A.C. Schapiro, M.B. Cai, J.D. Cohen. <i>"acilitating open-science with realistic fMRI simulation: validation and application."</i> bioRxiv, 2019.
+<br><a href="https://www.biorxiv.org/content/10.1101/532424v2">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">C. Chen, Q. Lu, A. Beukers, C. Baldassano, K. Norman. <i>"Learning to Apply Schematic Knowledge to Novel Instances."</i> arXiv, 2019.
 <br><a href="https://arxiv.org/abs/1902.09006">[arXiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_chen.png"></td>
