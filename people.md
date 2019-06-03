@@ -9,6 +9,7 @@
 </tr>
 </table>
 
+## Current Lab Members
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/halle.png"></td>
@@ -65,6 +66,16 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/labeebah.jpg"></td>
+<td style="width:280px"><b>Labeebah Subair</b>, Summer research assistant: Labeebah is a rising sophomore at Yale University who hopes to pursue her undergraduate degree in psychology and neuroscience. She is interested in how the brain processes psychological trauma, formulates memories, and promotes habitual neural activity. This interest is rooted in her passion for social justice and hope to relate concepts of trauma to identity and discrimination. 
+<br>
+</td>
+</tr>
+</table>
+
+## Former Lab Members
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/sophia.jpg"></td>
