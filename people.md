@@ -16,7 +16,7 @@
 <br><a href="http://www.matthewsachs.com/">Personal Website</a>
 <br>
 </td>
-  <td style="width:200px"><img src="img/mattsachs.png"></td>
+  <td style="width:200px"><img src="img/mattsachs.jpg"></td>
 </tr>
 </table>
 
