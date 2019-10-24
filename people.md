@@ -67,16 +67,16 @@
 </tr>
 </table>
 
+## Former Lab Members
 <table style="width:100%">
 <tr>
+<td style="width:200px"><img src="img/caroline.jpg"></td>
 <td style="width:280px"><b>Caroline Lee</b>, Volunteer research assistant: Caroline finished her MS in Computer Science at NYU's Courant Institute in 2017. She is interested in how the brain organizes and represents semantic structure and the use of machine-learning based joint-modeling approaches to explain the dynamics of brain and behavior. Her spare time is spent debugging TensorFlow code in Pat Shafto’s lab and attempting to play classical guitar.
 <br>
 </td>
-<td style="width:200px"><img src="img/caroline.jpg"></td>
 </tr>
 </table>
 
-## Former Lab Members
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Labeebah Subair</b>, Summer research assistant: Labeebah is a rising sophomore at Yale University who hopes to pursue her undergraduate degree in psychology and neuroscience. She is interested in how the brain processes psychological trauma, formulates memories, and promotes habitual neural activity. This interest is rooted in her passion for social justice and hope to relate concepts of trauma to identity and discrimination. 
