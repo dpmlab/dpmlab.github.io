@@ -19,16 +19,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+## Publications and Resources
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_silva.png"></td>
-<td style="width:410px">M. Silva, C. Baldassano, L. Fuentemilla. <i>"Rapid memory reactivation at movie event boundaries promotes episodic encoding."</i> bioRxiv, 2019.
-<br><a href="https://www.biorxiv.org/content/10.1101/511782v1">[bioRxiv link]</a>
+<td style="width:410px">M. Silva, C. Baldassano, L. Fuentemilla. <i>"Rapid memory reactivation at movie event boundaries promotes episodic encoding."</i> Journal of Neuroscience, 2019.
+<br><a href="https://www.jneurosci.org/content/39/43/8538">[journal link]</a> | <a href="papers/8538.full.pdf">[pdf]</a>
 </td>
 </tr>
 </table>
 
-## Publications and Resources
 <table>
 <tr>
 <td style="width:410px">C. Baldassano, U. Hasson, K. Norman. <i>"Representation of real-world event schemas during narrative perception."</i> Journal of Neuroscience, 2018.
