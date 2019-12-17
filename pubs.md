@@ -23,9 +23,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">M. Siegelman and C. Baldassano. <i>"Remembering together."</i> News & Views, Nature Human Behaviour, 2019.
+<br><a href="https://doi.org/10.1038/s41562-019-0789-x">[journal link]</a> | <a href="papers/s41562-019-0789-x.pdf">[pdf]</a></td>
 <td style="width:70px"><img src="icons/icon_rt.png"></td>
-<br><a href="https://doi.org/10.1038/s41562-019-0789-x">[journal link]</a> | <a href="papers/s41562-019-0789-x.pdf">[pdf]</a>
-</td>
 </tr>
 </table>
 
