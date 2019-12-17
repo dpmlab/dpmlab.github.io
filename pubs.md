@@ -22,6 +22,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Publications and Resources
 <table>
 <tr>
+<td style="width:410px">M. Siegelman and C. Baldassano. <i>"Remembering together."</i> News & Views, Nature Human Behaviour, 2019.
+<td style="width:70px"><img src="icons/icon_rt.png"></td>
+<br><a href="https://doi.org/10.1038/s41562-019-0789-x">[journal link]</a> | <a href="papers/s41562-019-0789-x.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_silva.png"></td>
 <td style="width:410px">M. Silva, C. Baldassano, L. Fuentemilla. <i>"Rapid memory reactivation at movie event boundaries promotes episodic encoding."</i> Journal of Neuroscience, 2019.
 <br><a href="https://www.jneurosci.org/content/39/43/8538">[journal link]</a> | <a href="papers/8538.full.pdf">[pdf]</a>
