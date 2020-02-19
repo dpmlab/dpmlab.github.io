@@ -3,15 +3,6 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:70px"><img src="icons/icon_sim.png"></td>
-<td style="width:410px">C. Ellis, C. Baldassano, A.C. Schapiro, M.B. Cai, J.D. Cohen. <i>"Facilitating open-science with realistic fMRI simulation: validation and application."</i> bioRxiv, 2019.
-<br><a href="https://www.biorxiv.org/content/10.1101/532424v2">[bioRxiv link]</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td style="width:410px">C. Chen, Q. Lu, A. Beukers, C. Baldassano, K. Norman. <i>"Learning to Apply Schematic Knowledge to Novel Instances."</i> arXiv, 2019.
 <br><a href="https://arxiv.org/abs/1902.09006">[arXiv link]</a>
 </td>
@@ -19,7 +10,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
 ## Publications and Resources
+<table>
+<tr>
+<td style="width:70px"><img src="icons/icon_sim.png"></td>
+<td style="width:410px">C. Ellis, C. Baldassano, A.C. Schapiro, M.B. Cai, J.D. Cohen. <i>"Facilitating open-science with realistic fMRI simulation: validation and application."</i> PeerJ, 2020.
+<br><a href="https://peerj.com/articles/8564/">[journal link]</a> | <a href="papers/peerj-8564.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td style="width:410px">M. Siegelman and C. Baldassano. <i>"Remembering together."</i> News & Views, Nature Human Behaviour, 2019.
