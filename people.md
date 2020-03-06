@@ -36,7 +36,7 @@
 <br><a href="https://www.parralab.org/people/samantha/">Personal Website</a>
 <br>
 </td>
-<td style="width:200px"><img src="img/samantha.png"></td>
+<td style="width:200px"><img src="img/samantha.jpg"></td>
 </tr>
 </table>
 
