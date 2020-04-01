@@ -25,7 +25,7 @@
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/halle.png"></td>
-<td style="width:280px"><b>Halle Dimsdale-Zucker</b>: Halle is finishing up her PhD in cognitive neuroscience at UC Davis before joining the DPM and Aly labs as a postdoc. She has been studying memory since her freshman year of college (and yet still struggles to remember peoples' names). 
+<td style="width:280px"><b>Halle Dimsdale-Zucker</b>: Halle completed her PhD in cognitive neuroscience at UC Davis before joining the DPM and Aly labs as a postdoc. She has been studying memory since her freshman year of college (and yet still struggles to remember peoples' names).
 <br><a href="https://hallezucker.com/">Personal Website</a>
 <br>
 </td>
