@@ -90,6 +90,26 @@
 </tr>
 </table>
 
+### Research Assistants
+<table style="width:100%">
+<tr> 
+<td style="width:280px"><b>Max Bennett</b>: After finishing his undergrad at Tufts University in Cognitive Brain Science and Computer Science, Max worked for a few years at a robotics company before joining Columbia for an MS in Computer Science. He is interested in how computational models, such as neural networks, compare and contrast to the brain.
+<br>
+</td>
+<td style="width:200px"><img src="img/max.jpg"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/cindy.jpg"></td>
+<td style="width:280px"><b>Cindy Gao</b>: Cindy is a rising sophomore at Columbia College who is interested in psychology and behavioral economics. She is curious about the neural mechanisms behind decision making. In her free time, she enjoys playing classical piano, skiing, and watching Broadway shows. 
+<br>
+</td>
+</tr>
+</table>
+
+
 ## Former Lab Members
 <table style="width:100%">
 <tr>
