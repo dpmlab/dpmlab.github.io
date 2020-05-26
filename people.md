@@ -109,6 +109,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Franck Mugisho</b>: Franck is a rising sophomore at Columbia University pursuing a Bachelor’s degree in Computer Science. He enjoys reading about the brain and psychology in general and is interested in designing computer software that will shed light on how the brain processes information. Franck’s hobbies include watching soccer games, biking, running, and spending time with family and friends.
+<br>
+</td>
+<td style="width:200px"><img src="img/franck.jpeg"></td>
+</tr>
+</table>
+
 
 ## Former Lab Members
 <table style="width:100%">
