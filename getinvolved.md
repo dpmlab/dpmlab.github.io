@@ -5,7 +5,7 @@ If you are a Columbia student and would like to learn more about research in the
 
 
 ## Independent study and Honors Program
-If you are a Columbia student and are interested in working on a research project for course credit (UN3950 "Supervised Individual Research"), contact Dr. Baldassano <c.baldassano@columbia.edu> to inquire about the current availability of independent study positions in the lab. Sophomores should also consider applying for [the Psychology Honors Program](https://psychology.columbia.edu/content/honors-program) which involves supervised research during Junior and Senior year.
+If you are a Columbia student and are interested in working on a research project for course credit (UN3950 "Supervised Individual Research"), contact Dr. Baldassano at <c.baldassano@columbia.edu> to inquire about the current availability of independent study positions in the lab. Sophomores should also consider applying for [the Psychology Honors Program](https://psychology.columbia.edu/content/honors-program) which involves supervised research during Junior and Senior year.
 
 
 ## Full-time summer research assistants
@@ -13,11 +13,11 @@ Over the summer, it is possible to work full-time as a paid research assistant o
 
 
 ## PhD students
-PhD applications are handled through [a central application process](https://psychology.columbia.edu/content/preparing-apply) in the Psychology department, but you should reach out directly to Dr. Baldassano <c.baldassano@columbia.edu> before applying to inquire about whether he will be accepting students. Entrance to the Columbia Psychology PhD program is highly selective, as we receive hundreds of applications for fewer than a dozen positions, and substantial prior research experience (as an undergrad or post-undergrad) is typically necessary for your application to be competitive.
+PhD applications are handled through [a central application process](https://psychology.columbia.edu/content/preparing-apply) in the Psychology department, but you should reach out directly to Dr. Baldassano at <c.baldassano@columbia.edu> before applying to inquire about whether he will be accepting students. Entrance to the Columbia Psychology PhD program is highly selective, as we receive hundreds of applications for fewer than a dozen positions, and substantial prior research experience (as an undergrad or post-undergrad) is typically necessary for your application to be competitive.
 
 
 ## Postdocs
-Email Dr. Baldassano <c.baldassano@columbia.edu> to inquire about potential job openings for postdoctoral researchers in the lab. We also recruit postdocs through the Columbia [Center for Science and Society's Presidential Scholars program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience).
+Email Dr. Baldassano at <c.baldassano@columbia.edu> to inquire about potential job openings for postdoctoral researchers in the lab. We also recruit postdocs through the Columbia [Center for Science and Society's Presidential Scholars program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience).
 
 
 # Diversity and Inclusion in the lab
