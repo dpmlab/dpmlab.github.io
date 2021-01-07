@@ -3,6 +3,24 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:70px"><img src="icons/icon_narratives.png"></td>
+<td style="width:410px">S.A. Nastase, Y.-F. Liu, H. Hillman, A. Zadbood, L. Hasenfratz, N. Keshavarzian, J. Chen, C.J. Honey, Y. Yeshurun, M. Regev, M. Nguyen, C.H.C. Chang, C. Baldassano, O. Lositsky, E. Simony, M.A. Chow, Y.C. Leong, P.P. Brooks, E. Micciche, G. Choe, A. Goldstein, T. Vanderwal, Y.O. Halchenko, K.A. Norman, U. Hasson. <i>"Narratives: fMRI data for evaluating models of naturalistic language comprehension."</i> bioRxiv, 2020.
+<br><a href="https://www.biorxiv.org/content/10.1101/2020.12.23.424091v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">M. Kumar, M. Anderson, J. Antony, C. Baldassano, P. Brooks, M. Cai, P.-H. Chen, C. Ellis, G. Henselman-Petrusek, D. Huberdeau, J.B. Hutchinson, Y.P. Li, Q. Lu, J. Manning, A.C. Mennen, S. Nastase, H. Richard, A.C. Schapiro, N. Schuck, M. Shvartsman, N. Sundaram, D. Suo, J.S. Turek, V. Vo, G. Wallace, Y. Wang, H. Zhang, X. Zhu, M. Capota, J. Cohen, U. Hasson, K. Li, P.J. Ramadge, N. Turk-Browne, T. Willke, K.A. Norman. <i>"BrainIAK: The Brain Imaging Analysis Kit."</i> OSF, 2020.
+<br><a href="https://osf.io/db2ev/">[OSF link]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_brainiak.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_ant.png"></td>
 <td style="width:410px">C.S. Lee, M. Aly, C. Baldassano <i>"Anticipation of temporally structured events in the brain."</i> bioRxiv, 2020.
 <br><a href="https://doi.org/10.1101/2020.10.14.338145">[bioRxiv link]</a>
