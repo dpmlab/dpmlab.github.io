@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2020.
+<br><a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428291v1">[bioRxiv link]</a>
+</td>
+ <td style="width:70px"><img src="icons/icon_music.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_narratives.png"></td>
 <td style="width:410px">S.A. Nastase, Y.-F. Liu, H. Hillman, A. Zadbood, L. Hasenfratz, N. Keshavarzian, J. Chen, C.J. Honey, Y. Yeshurun, M. Regev, M. Nguyen, C.H.C. Chang, C. Baldassano, O. Lositsky, E. Simony, M.A. Chow, Y.C. Leong, P.P. Brooks, E. Micciche, G. Choe, A. Goldstein, T. Vanderwal, Y.O. Halchenko, K.A. Norman, U. Hasson. <i>"Narratives: fMRI data for evaluating models of naturalistic language comprehension."</i> bioRxiv, 2020.
 <br><a href="https://www.biorxiv.org/content/10.1101/2020.12.23.424091v1">[bioRxiv link]</a>
