@@ -179,6 +179,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/zion.jpg"></td>
+<td style="width:280px"><b>Zion Walker</b>: Zion is an undergraduate student at Columbia studying neuroscience and behavior. She is interested in the formation and retrieval of episodic memories as well as the impact of neurological impairments like dementia on memory.  In her free time, she enjoys dancing ballet, hiking, kayaking, and creating portraits with charcoal or acryllics.
+<br>
+</td>
+</tr>
+</table>
+
 
 
 
