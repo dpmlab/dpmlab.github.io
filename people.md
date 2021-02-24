@@ -188,6 +188,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Silvia Toderas</b>: I am a student in the School of Engineering and Applied Sciences from Romania, class of 2023, majoring in Applied Mathematics and double-minoring in Psychology and Computer Science. I am interested in the intersection between mathematics, psychology, and computer science. More specifically the modeling of different brain processes, such as the retrieval of memories and the factors that lead to it. Some other interests include swimming, jogging, photography, and baking. 
+<br>
+</td>
+<td style="width:200px"><img src="img/silvia.jpg"></td>
+</tr>
+</table>
+
 
 
 
