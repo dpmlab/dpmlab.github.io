@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+ <td style="width:70px"><img src="icons/icon_kernel.png"></td>
+<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2021.
+<br><a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436524v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2021.
 <br><a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428291v1">[bioRxiv link]</a>
 </td>
