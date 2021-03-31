@@ -46,17 +46,17 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
+## Publications and Resources
 <table>
 <tr>
-<td style="width:410px">C. Chen, Q. Lu, A. Beukers, C. Baldassano, K. Norman. <i>"Learning to Apply Schematic Knowledge to Novel Instances."</i> arXiv, 2019.
-<br><a href="https://arxiv.org/abs/1902.09006">[arXiv link]</a>
+<td style="width:410px">C. Chen, Q. Lu, A. Beukers, C. Baldassano, K. Norman. <i>"Learning to perform role-filler binding with schematic knowledge."</i> PeerJ, 2021.
+<br><a href="http://doi.org/10.7717/peerj.11046">[journal link]</a> | <a href="papers/peerj-11046.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_chen.png"></td>
 </tr>
 </table>
 
-
-## Publications and Resources
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_sim.png"></td>
