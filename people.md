@@ -190,13 +190,21 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Silvia Toderas</b>: Silvia am a student in the School of Engineering and Applied Sciences from Romania, class of 2023, majoring in Applied Mathematics and double-minoring in Psychology and Computer Science. She is interested in the intersection between mathematics, psychology, and computer science, and specifically in the modeling of different brain processes, such as the retrieval of memories and the factors that lead to it. Her other interests include swimming, jogging, photography, and baking. 
+<td style="width:280px"><b>Silvia Toderas</b>: Silvia is a student in the School of Engineering and Applied Sciences from Romania, class of 2023, majoring in Applied Mathematics and double-minoring in Psychology and Computer Science. She is interested in the intersection between mathematics, psychology, and computer science, and specifically in the modeling of different brain processes, such as the retrieval of memories and the factors that lead to it. Her other interests include swimming, jogging, photography, and baking. 
 <br>
 </td>
 <td style="width:200px"><img src="img/silvia.jpg"></td>
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Angel.jpeg"></td>
+<td style="width:280px"><b>Angel Latt</b>: Angel is an undergraduate student at Columbia College studying Neuroscience and Behavior. She is interested in gaining insights into human behavior, particularly in the field of neural mechanisms and developmental neurology. In addition to her love for all things brain related, she is also passionate about promoting science and health education to the broader general public. When she isn’t in the lab or doesn’t have her nose stuck in a textbook, she enjoys exploring the city, reading, volunteering, listening to all kinds of music, and baking too much.
+<br>
+</td>
+</tr>
+</table>
 
 
 
