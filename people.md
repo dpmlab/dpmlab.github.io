@@ -172,7 +172,7 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Allie Yuxin Lin</b>: Ally is a sophomore undergraduate studying Political Science and Psychology at Columbia. She is interested in combining her two majors in the study of political psychology, and is fascinated by the world of neuropsychology. When she's not frantically working on academic work, she enjoys writing poetry and creating visual art with watercolor and occasionally ink and water.
+<td style="width:280px"><b>Allie Yuxin Lin</b>: Allie is a sophomore undergraduate studying Political Science and Psychology at Columbia. She is interested in combining her two majors in the study of political psychology, and is fascinated by the world of neuropsychology. When she's not frantically working on academic work, she enjoys writing poetry and creating visual art with watercolor and occasionally ink and water.
 <br>
 </td>
 <td style="width:200px"><img src="img/Ally_Lin.jpg"></td>
