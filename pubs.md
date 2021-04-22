@@ -46,17 +46,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+## Peer-Reviewed Publications
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_ant.png"></td>
-<td style="width:410px">C.S. Lee, M. Aly, C. Baldassano <i>"Anticipation of temporally structured events in the brain."</i> bioRxiv, 2020.
-<br><a href="https://doi.org/10.1101/2020.10.14.338145">[bioRxiv link]</a>
+<td style="width:410px">C.S. Lee, M. Aly, C. Baldassano <i>"Anticipation of temporally structured events in the brain."</i> eLife, 2021.
+<br><a href="https://doi.org/10.7554/eLife.64972">[journal link]</a>
 </td>
 </tr>
 </table>
 
-
-## Publications and Resources
 <table>
 <tr>
 <td style="width:410px">C. Chen, Q. Lu, A. Beukers, C. Baldassano, K. Norman. <i>"Learning to perform role-filler binding with schematic knowledge."</i> PeerJ, 2021.
