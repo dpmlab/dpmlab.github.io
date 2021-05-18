@@ -3,7 +3,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:410px">S.S Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> bioRxiv, 2021.
+<td style="width:70px"><img src="icons/icon_schema.png"></td>
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> bioRxiv, 2021.
+<br><a href="https://www.biorxiv.org/content/10.1101/2021.05.17.444363v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">S.S. Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> bioRxiv, 2021.
 <br><a href="https://www.biorxiv.org/content/10.1101/2021.04.12.439526v1">[bioRxiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_HBN.png"></td>
@@ -13,7 +22,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
  <td style="width:70px"><img src="icons/icon_kernel.png"></td>
-<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2021.
+<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"Brain kernel: a new spatial covariance function for fMRI data."</i> bioRxiv, 2021.
 <br><a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436524v1">[bioRxiv link]</a>
 </td>
 </tr>
@@ -97,7 +106,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
   <br><a href="https://figshare.com/articles/Event_Schema_Stimuli/5760306/3">Stimuli</a> | <a href="https://doi.org/10.24433/CO.a27d1d90-d227-4600-b876-051a801c7c20.v3">Code and data capsule</a>
   <br><a href="http://www.doi.org/10.18112/openneuro.ds001510.v1.0.1">Raw data (Main)</a> | <a href="http://www.doi.org/10.18112/openneuro.ds001511.v1.0.1">Raw data (Control)</a>
 </td>
-<td style="width:70px"><img src="icons/icon_schema.png"></td>
+<td style="width:70px"><img src="icons/icon_schema_JON.png"></td>
 </tr>
 </table>
 
