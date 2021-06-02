@@ -60,7 +60,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_ant.png"></td>
 <td style="width:410px">C.S. Lee, M. Aly, C. Baldassano <i>"Anticipation of temporally structured events in the brain."</i> eLife, 2021.
-<br><a href="https://doi.org/10.7554/eLife.64972">[journal link]</a>
+<br><a href="https://doi.org/10.7554/eLife.64972">[journal link]</a> | <a href="papers/elife-64972-v2.pdf">[pdf w/ figure supplements]</a>
 </td>
 </tr>
 </table>
