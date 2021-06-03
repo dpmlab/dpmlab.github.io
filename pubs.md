@@ -55,11 +55,20 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
-## Peer-Reviewed Publications
+## Journal Publications
+<table>
+<tr>
+<td style="width:410px">H. Tarder-Stoll, C. Gasser, W. Yu, H.R. Dimsdale-Zucker. <i>"Challenges in Understanding the Role of Reactivation in Modifying Hippocampal Representations."</i> Journal Club commentary for the Journal of Neuroscience, 2021.
+<br><a href="https://doi.org/10.1523/JNEUROSCI.0334-21.2021">[journal link]</a> | <a href="papers/4750.full.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_JoN.jpg"></td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_ant.png"></td>
-<td style="width:410px">C.S. Lee, M. Aly, C. Baldassano <i>"Anticipation of temporally structured events in the brain."</i> eLife, 2021.
+<td style="width:410px">C.S. Lee, M. Aly, C. Baldassano. <i>"Anticipation of temporally structured events in the brain."</i> eLife, 2021.
 <br><a href="https://doi.org/10.7554/eLife.64972">[journal link]</a> | <a href="papers/elife-64972-v2.pdf">[pdf w/ figure supplements]</a>
 </td>
 </tr>
