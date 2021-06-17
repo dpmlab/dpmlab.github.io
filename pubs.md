@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> bioRxiv, 2021.
+<br><a href="https://www.biorxiv.org/content/10.1101/2021.06.16.448755v1">[bioRxiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_ty.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
 <td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> bioRxiv, 2021.
 <br><a href="https://www.biorxiv.org/content/10.1101/2021.05.17.444363v1">[bioRxiv link]</a>
