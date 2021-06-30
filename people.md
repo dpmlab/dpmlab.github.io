@@ -81,10 +81,10 @@
 ## Undergraduate honors students
 <table style="width:100%">
 <tr>
+<td style="width:200px"><img src="img/mareike.jpg"></td>
 <td style="width:280px"><b>Mareike Keller</b>: Mareike is an undergraduate student at Columbia studying Psychology and Computer Science. She is interested in how humans process novel situations and the impact that past experiences have on their predictions. In the future, she hopes to work in the field of human-computer interaction. Outside of the lab, Mareike enjoys discovering new music, running, and cats.
 <br>
 </td>
-<td style="width:200px"><img src="img/mareike.jpg"></td>
 </tr>
 </table>
 
