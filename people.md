@@ -81,15 +81,6 @@
 ## Undergraduate honors students
 <table style="width:100%">
 <tr>
-  <td style="width:200px"><img src="img/sunjae.jpg"></td>
-<td style="width:280px"><b>Sunjae Shim</b>: Sunjae is an undergraduate student at Columbia University studying psychology. She is interested in combining her interests in psychology and film studies to look into how people perceive naturalistic stimuli. Outside of school work, she likes binge watching TV shows with her hamster, Tiramisu.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
 <td style="width:280px"><b>Mareike Keller</b>: Mareike is an undergraduate student at Columbia studying Psychology and Computer Science. She is interested in how humans process novel situations and the impact that past experiences have on their predictions. In the future, she hopes to work in the field of human-computer interaction. Outside of the lab, Mareike enjoys discovering new music, running, and cats.
 <br>
 </td>
@@ -209,6 +200,15 @@
 
 
 ## Former Lab Members
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Sunjae Shim</b>: Sunjae is an undergraduate student at Columbia University studying psychology. She is interested in combining her interests in psychology and film studies to look into how people perceive naturalistic stimuli. Outside of school work, she likes binge watching TV shows with her hamster, Tiramisu.
+<br>
+</td>
+<td style="width:200px"><img src="img/sunjae.jpg"></td>
+</tr>
+</table>
+
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/caroline.jpg"></td>
