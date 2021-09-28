@@ -59,7 +59,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_narratives.png"></td>
-<td style="width:410px">S.A. Nastase, Y.-F. Liu, H. Hillman, A. Zadbood, L. Hasenfratz, N. Keshavarzian, J. Chen, C.J. Honey, Y. Yeshurun, M. Regev, M. Nguyen, C.H.C. Chang, C. Baldassano, O. Lositsky, E. Simony, M.A. Chow, Y.C. Leong, P.P. Brooks, E. Micciche, G. Choe, A. Goldstein, T. Vanderwal, Y.O. Halchenko, K.A. Norman, U. Hasson. <i>"Narratives: fMRI data for evaluating models of naturalistic language comprehension."</i> bioRxiv, 2020.
+<td style="width:410px">S.A. Nastase, Y.-F. Liu, H. Hillman, A. Zadbood, L. Hasenfratz, N. Keshavarzian, J. Chen, C.J. Honey, Y. Yeshurun, M. Regev, M. Nguyen, C.H.C. Chang, C. Baldassano, O. Lositsky, E. Simony, M.A. Chow, Y.C. Leong, P.P. Brooks, E. Micciche, G. Choe, A. Goldstein, T. Vanderwal, Y.O. Halchenko, K.A. Norman, U. Hasson. <i>"Narratives: fMRI data for evaluating models of naturalistic language comprehension."</i> Scientific Data, 2021.
 <br><a href="https://www.nature.com/articles/s41597-021-01033-3">[journal link]</a> | <a href="papers/s41597-021-01033-3.pdf">[pdf]</a>
 </td>
 </tr>
