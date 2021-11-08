@@ -33,7 +33,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_music.png"></td>
-<td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> NeuroImage, 2021.
+<td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2021.
 <br><a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428291v1">[bioRxiv link]</a>
 </td>
 </tr>
@@ -51,7 +51,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
-<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"Brain kernel: a new spatial covariance function for fMRI data."</i> bioRxiv, 2021.
+<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"Brain kernel: a new spatial covariance function for fMRI data."</i> NeuroImage, 2021.
 <br><a href="https://doi.org/10.1016/j.neuroimage.2021.118580">[journal link]</a> | <a href="papers/1-s2.0-S1053811921008533-main.pdf">[pdf]</a>
 </td>
  <td style="width:70px"><img src="icons/icon_kernel.png"></td>
