@@ -78,30 +78,57 @@
 </tr>
 </table>
 
-## Undergraduate honors students
+## Undergraduate Senior Thesis students
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/mareike.jpg"></td>
-<td style="width:280px"><b>Mareike Keller</b>: Mareike is an undergraduate student at Columbia studying Psychology and Computer Science. She is interested in how humans process novel situations and the impact that past experiences have on their predictions. In the future, she hopes to work in the field of human-computer interaction. Outside of the lab, Mareike enjoys discovering new music, running, and cats.
+<td style="width:280px"><b>Mareike Keller</b>: Mareike is an undergraduate student at Columbia studying Psychology and Computer Science. She is interested in the impact that past experiences have on human's predictions, as well as how we encode and reinstate narrative memory. In the future, she hopes to work in the field of human-computer interaction. Outside of the lab, Mareike enjoys discovering new music, running, and cats.
 <br>
 </td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Katie Mae Peters</b>: Katie Mae Peters' passion for action films started the moment she watched Keanu jump a bus over the gap in an incomplete LA freeway. Since then she spent the past ten years in the film industry gaining experience by working with everyone from Dog the Bounty Hunter to Ron Burgandy. Her eye for creative producing has led her to create several award winning films and earn several grants including a 2021 Hollywood Foreign Press Fellowship. She currently attends Columbia University where she is researching the negative impacts certain color grading and production design choices in film have on the way audiences form empathetic attachments to POC characters and foreign countries.
+<br>
+</td>
+<td style="width:200px"><img src="img/katie_mae_peters.png"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Gloria_Charite.png"></td>
+<td style="width:280px"><b>Gloria Charite</b>: Gloria is a CC’2023 undergraduate student in Columbia College studying Psychology. She is interested in understanding the process underlying learning, specifically the ways in which information can be presented to maximize encoding, retention and later retrieval. In the future, she hopes to contribute to bridging the gap between cognitive psychology and education. That is, using contemporary knowledge on the functioning of memory systems to enrich classroom and learning experiences in general. Outside of school work, she enjoys reading and having "intellectual" conversations with friends.
+<br>
+</td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Karina Feng</b>: Karina is an undergraduate at Columbia College studying Psychology and Statistics. She is interested in how identity interacts with memory and how it informs human behavior, as well as the intersection of machine learning and psychology. In her free time, she enjoys photography, baking, and sewing.
+<br>
+</td>
+<td style="width:200px"><img src="img/Karina_Feng.png"></td>
 </tr>
 </table>
 
 ## Research Assistants
 <table style="width:100%">
-<tr> 
-<td style="width:280px"><b>Max Bennett</b>: After finishing his undergrad at Tufts University in Cognitive Brain Science and Computer Science, Max worked for a few years at a robotics company before joining Columbia for an MS in Computer Science. He is interested in how computational models, such as neural networks, compare and contrast to the brain.
+<tr>
+<td style="width:280px"><b>Rachel Nielson</b>: Rachel is a second-year undergraduate at Columbia University (Dual BA with List College). Currently, she is studying Neuroscience and Ethics. She is most interested in the complexities of memory and the science behind learning. She is also passionate about neurodiversity advocacy. Fun Fact: She is from the opposite coast of the country (California). West coast best coast!
 <br>
 </td>
-<td style="width:200px"><img src="img/max.jpg"></td>
+<td style="width:200px"><img src="img/rachel_nielson.png"></td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"><img src="img/cindy.jpg"></td>
-<td style="width:280px"><b>Cindy Gao</b>: Cindy is a rising sophomore at Columbia College who is interested in psychology and behavioral economics. She is curious about the neural mechanisms behind decision making. In her free time, she enjoys playing classical piano, skiing, and watching Broadway shows. 
+<td style="width:200px"><img src="img/julia_soares.png"></td>
+<td style="width:280px"><b>Julia Soares</b>: Julia is a junior at Columbia University majoring in Neuroscience and Behavior. She is interested in the molecular mechanisms behind memory retrieval and encoding. In her free time, she enjoys reading, roller skating, and making collages.
 <br>
 </td>
 </tr>
@@ -109,57 +136,75 @@
 
 <table style="width:100%">
 <tr>
+<td style="width:280px"><b>Isabel Velarde</b>: Isabel is a recent graduate of Fordham University with a double major in mathematics and philosophy. She is currently a post-bac student in Psychology at Columbia University and is hoping to study something related to memory or language.
+<br>
+</td>
+<td style="width:200px"><img src="img/Isabel_Velarde.png"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/chloe_lambert.png"></td>
+<td style="width:280px"><b>Chloe Lambert</b>: Chloe is a sophomore at Columbia University studying Neuroscience and Mathematics. She is interested in the neural mechanisms underlying decision making, memory and learning. Music plays a large role in her life as she is a singer/songwriter. She also enjoys walking around the city, going to museums and photography.
+</td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Yumiko Wiranto</b>: Yumiko is a second-year master’s student in Psychology in Education at Teachers College, Columbia University. Her research interest revolves around prevention, assessment, and neurorehabilitation in the population suffering from cognitive decline (e.g., MCI and dementia), and its impact on memory.  Outside of the academic setting, Yumiko enjoys dancing, playing the piano, and engaging in aquatic activities.
+</td>
+<td style="width:200px"><img src="img/Yumiko_Wiranto.png"></td>
+</tr>
+</table>
+
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/franck.jpeg"></td>
 <td style="width:280px"><b>Franck Mugisho</b>: Franck is a rising sophomore at Columbia University pursuing a Bachelor’s degree in Computer Science. He enjoys reading about the brain and psychology in general and is interested in designing computer software that will shed light on how the brain processes information. Franck’s hobbies include watching soccer games, biking, running, and spending time with family and friends.
 <br>
 </td>
-<td style="width:200px"><img src="img/franck.jpeg"></td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"><img src="img/Elen_Zhu.jpg"></td>
 <td style="width:280px"><b>Elen Zhu</b>: Elen is a sophomore at Columbia College pursuing a Bachelor’s degree in Neuroscience and Behavior. She is interested in the mechanisms in play between perception and memory. In her free time, she enjoys sewing, crocheting, attempting to paint and spending time with friends and family.
 <br>
 </td>
+<td style="width:200px"><img src="img/Elen_Zhu.jpg"></td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
+<td style="width:200px"><img src="img/Ezgi_Oztelcan.jpg"></td>
 <td style="width:280px"><b>Ezgi Oztelcan</b>: Ezgi is a third-year UC Berkeley psychology student from Istanbul, Turkey, aiming to further develop her scientific approach skills and practice in different specializations in psychology to support shaping future academic and career goals. She is eager to learn new ways to continuously improve herself academically, professionally, and socially. She is interested in how evolutionary developmental processes affect the human brain on a neurological basis, with an emphasis on language development! In her free time, she enjoys petsitting for her friends, skiing, and playing around with analog cameras.
 <br>
 </td>
-<td style="width:200px"><img src="img/Ezgi_Oztelcan.jpg"></td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
+<td style="width:280px"><b>Tony Kim</b>: Tony is a pre-medical undergraduate student at Columbia studying neuroscience and philosophy. He is interested in how episodic and semantic schemas affect information processing, as well as mechanisms behind hippocampal neurogenesis. In his free time, he enjoys reading, watching basketball, and walking his dog.
+<br>
+</td>
 <td style="width:200px"><img src="img/Tony_Kim.jpg"></td>
-<td style="width:280px"><b>Tony Kim</b>: Tony is an undergraduate student at Columbia studying neuroscience and philosophy. He is interested in how episodic and semantic schemas affect information processing and stimuli interpretation. In his free time, he enjoys reading, watching basketball, and walking his dog.
-<br>
-</td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Jason Wang</b>: Jason Wang is a junior in Columbia College who values curiosity and creativity above all else. As a Neuroscience student on the premed track as well as a violinist, he is always on the lookout for new possibilities to fuse artistic mindfulness with psychiatric methods. Over the summer of 2019, he worked as an artist and curator in the Athens Curatorial Project, where he created an audio installation that explored the prevalence and impact of cultural clichés on the Greek collective unconscious.
-<br>
-</td>
 <td style="width:200px"><img src="img/Jason_Wang.jpg"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/Sophie_Blitsman.jpg"></td>
-<td style="width:280px"><b>Sophie Blitsman</b>: Sophie is a senior at Great Neck South High School looking to apply to colleges with a major in general psychology. She hopes to later narrow her major down to experimental psychology. Sophie has been enrolled in her high school’s research program for 4 years that has allowed her to pursue her interest in researching human behavior.
+<td style="width:280px"><b>Jason Wang</b>: Jason Wang is a senior in Columbia College who values curiosity and creativity above all else. As a Neuroscience student on the premed track as well as a violinist, he is always on the lookout for new possibilities to fuse artistic mindfulness with psychiatric methods. Over the summer of 2019, he worked as an artist and curator in the Athens Curatorial Project, where he created an audio installation that explored the prevalence and impact of cultural clichés on the Greek collective unconscious.
 <br>
 </td>
 </tr>
 </table>
+
 
 <table style="width:100%">
 <tr>
@@ -170,23 +215,6 @@
 </tr>
 </table>
 
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/zion.jpg"></td>
-<td style="width:280px"><b>Zion Walker</b>: Zion is an undergraduate student at Columbia studying neuroscience and behavior. She is interested in the formation and retrieval of episodic memories as well as the impact of neurological impairments like dementia on memory.  In her free time, she enjoys dancing ballet, hiking, kayaking, and creating portraits with charcoal or acryllics.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Silvia Toderas</b>: Silvia is a student in the School of Engineering and Applied Sciences from Romania, class of 2023, majoring in Applied Mathematics and double-minoring in Psychology and Computer Science. She is interested in the intersection between mathematics, psychology, and computer science, and specifically in the modeling of different brain processes, such as the retrieval of memories and the factors that lead to it. Her other interests include swimming, jogging, photography, and baking. 
-<br>
-</td>
-<td style="width:200px"><img src="img/silvia.jpg"></td>
-</tr>
-</table>
 
 <table style="width:100%">
 <tr>
@@ -200,38 +228,17 @@
 
 
 ## Former Lab Members
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Sunjae Shim</b>: Sunjae is an undergraduate student at Columbia University studying psychology. She is interested in combining her interests in psychology and film studies to look into how people perceive naturalistic stimuli. Outside of school work, she likes binge watching TV shows with her hamster, Tiramisu.
-<br>
-</td>
-<td style="width:200px"><img src="img/sunjae.jpg"></td>
-</tr>
-</table>
+<b>Cindy Gao</b> (Research Assistant)
+<b>Sophie Blitsman</b> (Research Assistant)
+<b>Zion Walker</b> (Research Assistant)
+<b>Silvia Toderas</b> (Research Assistant)
 
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/caroline.jpg"></td>
-<td style="width:280px"><b>Caroline Lee</b>, Volunteer research assistant: Caroline finished her MS in Computer Science at NYU's Courant Institute in 2017. She is interested in how the brain organizes and represents semantic structure and the use of machine-learning based joint-modeling approaches to explain the dynamics of brain and behavior. Her spare time is spent debugging TensorFlow code in Pat Shafto’s lab and attempting to play classical guitar.
-<br>
-</td>
-</tr>
-</table>
+<b><a href="https://maxs.world/">Max Bennett</a></b> (MS, Computer Science)
 
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Labeebah Subair</b>, Summer research assistant: Labeebah is a rising sophomore at Yale University who hopes to pursue her undergraduate degree in psychology and neuroscience. She is interested in how the brain processes psychological trauma, formulates memories, and promotes habitual neural activity. This interest is rooted in her passion for social justice and hope to relate concepts of trauma to identity and discrimination. 
-<br>
-</td>
-<td style="width:200px"><img src="img/labeebah.jpg"></td>
-</tr>
-</table>
+<b>Sunjae Shim</b> (Undergraduate Senior Thesis student)
 
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/sophia.jpg"></td>
-<td style="width:280px"><b>Sophia Africk</b>, Summer intern: Sophia is a senior at Trinity School in New York City, where she is interested in math and psychology.  In her free time, she enjoys trying new restaurants around the city.
-<br>
-</td>
-</tr>
-</table>
+<b>Caroline Lee</b> (Research Assistant)
+
+<b>Labeebah Subair</b> (Research Assistant)
+
+<b>Sophia Africk</b> (Research Assistant)
