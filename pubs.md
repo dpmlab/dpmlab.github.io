@@ -39,16 +39,18 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
+## Journal Publications
+
 <table>
 <tr>
-<td style="width:410px">M. Kumar, M. Anderson, J. Antony, C. Baldassano, P. Brooks, M. Cai, P.-H. Chen, C. Ellis, G. Henselman-Petrusek, D. Huberdeau, J.B. Hutchinson, Y.P. Li, Q. Lu, J. Manning, A.C. Mennen, S. Nastase, H. Richard, A.C. Schapiro, N. Schuck, M. Shvartsman, N. Sundaram, D. Suo, J.S. Turek, V. Vo, G. Wallace, Y. Wang, H. Zhang, X. Zhu, M. Capota, J. Cohen, U. Hasson, K. Li, P.J. Ramadge, N. Turk-Browne, T. Willke, K.A. Norman. <i>"BrainIAK: The Brain Imaging Analysis Kit."</i> OSF, 2020.
-<br><a href="https://osf.io/db2ev/">[OSF link]</a>
-</td>
 <td style="width:70px"><img src="icons/icon_brainiak.png"></td>
+<td style="width:410px">M. Kumar, M. Anderson, J. Antony, C. Baldassano, P. Brooks, M. Cai, P.-H. Chen, C. Ellis, G. Henselman-Petrusek, D. Huberdeau, J.B. Hutchinson, Y.P. Li, Q. Lu, J. Manning, A.C. Mennen, S. Nastase, H. Richard, A.C. Schapiro, N. Schuck, M. Shvartsman, N. Sundaram, D. Suo, J.S. Turek, V. Vo, G. Wallace, Y. Wang, H. Zhang, X. Zhu, M. Capota, J. Cohen, U. Hasson, K. Li, P.J. Ramadge, N. Turk-Browne, T. Willke, K.A. Norman. <i>"BrainIAK: The Brain Imaging Analysis Kit."</i> Aperture Neuro, 2022.
+<br><a href="https://apertureneuropub.cloud68.co/articles/42/index.html">[journal link]</a> | <a href="papers/Kumar_BrainIAK_The_Brain_Imaging_Analysis_Kit.pdf">[pdf]</a>
+</td>
 </tr>
 </table>
 
-## Journal Publications
 <table>
 <tr>
 <td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"Brain kernel: a new spatial covariance function for fMRI data."</i> NeuroImage, 2021.
