@@ -30,17 +30,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 
+## Journal Publications
 <table>
 <tr>
-<td style="width:70px"><img src="icons/icon_music.png"></td>
-<td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-order areas and auditory cortex both represent the high-level event structure of music."</i> bioRxiv, 2021.
-<br><a href="https://www.biorxiv.org/content/10.1101/2021.01.26.428291v1">[bioRxiv link]</a>
+<td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-Order Areas and Auditory Cortex Both Represent the High-Level Event Structure of Music."</i> Journal of Cognitive Neuroscience, 2022.
+<br><a href="https://doi.org/10.1162/jocn_a_01815">[journal link]</a> | <a href="papers/jocn_a_01815.pdf">[pdf]</a>
 </td>
+<td style="width:70px"><img src="icons/icon_music.png"></td>
 </tr>
 </table>
-
-
-## Journal Publications
 
 <table>
 <tr>
