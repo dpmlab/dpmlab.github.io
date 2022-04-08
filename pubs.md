@@ -3,18 +3,18 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> bioRxiv, 2021.
-<br><a href="https://www.biorxiv.org/content/10.1101/2021.06.16.448755v1">[bioRxiv link]</a>
+<td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano.<i>"Testing the limits of natural language models for predicting human language judgments."</i> arXiv, 2022.
+<br><a href="https://arxiv.org/abs/2204.03592">[arXiv link]</a>
 </td>
-<td style="width:70px"><img src="icons/icon_ty.png"></td>
+<td style="width:70px"><img src="icons/contstim.png"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width:70px"><img src="icons/icon_schema.png"></td>
-<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> bioRxiv, 2021.
-<br><a href="https://www.biorxiv.org/content/10.1101/2021.05.17.444363v1">[bioRxiv link]</a>
+<td style="width:70px"><img src="icons/icon_ty.png"></td>
+<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> bioRxiv, 2021.
+<br><a href="https://www.biorxiv.org/content/10.1101/2021.06.16.448755v1">[bioRxiv link]</a>
 </td>
 </tr>
 </table>
@@ -31,6 +31,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:70px"><img src="icons/icon_schema.png"></td>
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> eLife, 2022.
+<br><a href="https://doi.org/10.7554/eLife.70445">[journal link]</a> | <a href="papers/elife-70445-v1.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:410px">J.A. Williams,  E.H. Margulis,  S.A. Nastase,  J. Chen,  U. Hasson,  K.A. Norman,  C. Baldassano. <i>"High-Order Areas and Auditory Cortex Both Represent the High-Level Event Structure of Music."</i> Journal of Cognitive Neuroscience, 2022.
