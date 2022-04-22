@@ -5,7 +5,7 @@ If you are a Columbia student and would like to learn more about research in the
 
 
 ## Independent study and Honors Program
-If you are a Columbia student and are interested in working on a research project for course credit (UN3950 "Supervised Individual Research"), contact Dr. Baldassano at <c.baldassano@columbia.edu> to inquire about the current availability of independent study positions in the lab. Sophomores should also consider applying for [the Psychology Honors Program](https://psychology.columbia.edu/content/honors-program) which involves supervised research during Junior and Senior year.
+If you are a Columbia student and are interested in working on a research project for course credit (UN3950 "Supervised Individual Research"), contact Dr. Baldassano at <c.baldassano@columbia.edu> to inquire about the current availability of independent study positions in the lab. Students starting their Junior year (or their second-to-last year) should also consider applying for the [Senior Thesis Advanced Research](https://psychology.columbia.edu/content/psychneuro-senior-thesis-advanced-research) program which involves supervised research during your final three semesters.
 
 
 ## Full-time summer research assistants
