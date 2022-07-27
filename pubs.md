@@ -28,18 +28,18 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
+
+## Journal Publications
 <table>
 <tr>
-<td style="width:410px">S.S. Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> bioRxiv, 2021.
-<br><a href="https://www.biorxiv.org/content/10.1101/2021.04.12.439526v1">[bioRxiv link]</a>
+<td style="width:410px">S.S. Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
+<br><a href="https://doi.org/10.7554/eLife.69430">[journal link]</a> | <a href="papers/elife-69430-v2.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_HBN.png"></td>
 </tr>
 </table>
 
-
-
-## Journal Publications
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
