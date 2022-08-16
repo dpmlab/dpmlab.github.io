@@ -200,15 +200,25 @@
 
 ## Former Lab Members
 <b><a href="https://sites.google.com/view/samanthacohen/home">Samantha Cohen</a></b> (Postdoc)
+
 <b><a href="http://www.matthewsachs.com/">Matthew Sachs</a></b> (Postdoc)
+
 <b><a href="https://maxs.world/">Max Bennett</a></b> (MS, Computer Science)
+
 <b>Sunjae Shim</b> (Undergraduate Senior Thesis student)
+
 <b>Mareike Keller</b> (Undergraduate Senior Thesis student)
 
 <b>Cindy Gao</b> (Research Assistant)
+
 <b>Sophie Blitsman</b> (Research Assistant)
+
 <b>Zion Walker</b> (Research Assistant)
+
 <b>Silvia Toderas</b> (Research Assistant)
+
 <b>Caroline Lee</b> (Research Assistant)
+
 <b>Labeebah Subair</b> (Research Assistant)
+
 <b>Sophia Africk</b> (Research Assistant)
