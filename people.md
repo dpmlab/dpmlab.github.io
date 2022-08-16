@@ -12,31 +12,11 @@
 ## Postdocs
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Matthew Sachs</b> (Presidential Scholars in Society and Neuroscience program): Matt received his PhD from the University of Southern California’s in Dr. Antonio Damasio's Brain and Creativity Institute. His research focuses on modeling the neural and behavioral mechanisms involved in emotional and rewarding responses to naturalistic stimuli, such as music and film. 
-<br><a href="http://www.matthewsachs.com/">Personal Website</a>
-<br>
-</td>
-  <td style="width:200px"><img src="img/mattsachs.jpg"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
 <td style="width:200px"><img src="img/halle.png"></td>
 <td style="width:280px"><b>Halle Dimsdale-Zucker</b>: Halle completed her PhD in cognitive neuroscience at UC Davis before joining the DPM and Aly labs as a postdoc. She has been studying memory since her freshman year of college (and yet still struggles to remember peoples' names).
 <br><a href="https://hallezucker.com/">Personal Website</a>
 <br>
 </td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Samantha Cohen</b>: Samantha completed a PhD in Psychology in the lab of Dr. Lucas Parra at The City University of New York. During her time there, she used EEG responses to dynamic naturalistic videos to better understand the modulation of attention and memory.
-<br><a href="https://www.parralab.org/people/samantha/">Personal Website</a>
-<br>
-</td>
-<td style="width:200px"><img src="img/samantha.png"></td>
 </tr>
 </table>
 
@@ -79,15 +59,6 @@
 </table>
 
 ## Undergraduate Senior Thesis students
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/mareike.jpg"></td>
-<td style="width:280px"><b>Mareike Keller</b>: Mareike is an undergraduate student at Columbia studying Psychology and Computer Science. She is interested in the impact that past experiences have on human's predictions, as well as how we encode and reinstate narrative memory. In the future, she hopes to work in the field of human-computer interaction. Outside of the lab, Mareike enjoys discovering new music, running, and cats.
-<br>
-</td>
-</tr>
-</table>
-
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Katie Mae Peters</b>: Katie Mae Peters' passion for action films started the moment she watched Keanu jump a bus over the gap in an incomplete LA freeway. Since then she spent the past ten years in the film industry gaining experience by working with everyone from Dog the Bounty Hunter to Ron Burgandy. Her eye for creative producing has led her to create several award winning films and earn several grants including a 2021 Hollywood Foreign Press Fellowship. She currently attends Columbia University where she is researching the negative impacts certain color grading and production design choices in film have on the way audiences form empathetic attachments to POC characters and foreign countries.
@@ -228,17 +199,16 @@
 
 
 ## Former Lab Members
+<b><a href="https://sites.google.com/view/samanthacohen/home">Samantha Cohen</a></b> (Postdoc)
+<b><a href="http://www.matthewsachs.com/">Matthew Sachs</a></b> (Postdoc)
+<b><a href="https://maxs.world/">Max Bennett</a></b> (MS, Computer Science)
+<b>Sunjae Shim</b> (Undergraduate Senior Thesis student)
+<b>Mareike Keller</b> (Undergraduate Senior Thesis student)
+
 <b>Cindy Gao</b> (Research Assistant)
 <b>Sophie Blitsman</b> (Research Assistant)
 <b>Zion Walker</b> (Research Assistant)
 <b>Silvia Toderas</b> (Research Assistant)
-
-<b><a href="https://maxs.world/">Max Bennett</a></b> (MS, Computer Science)
-
-<b>Sunjae Shim</b> (Undergraduate Senior Thesis student)
-
 <b>Caroline Lee</b> (Research Assistant)
-
 <b>Labeebah Subair</b> (Research Assistant)
-
 <b>Sophia Africk</b> (Research Assistant)
