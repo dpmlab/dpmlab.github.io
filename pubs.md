@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">M. Bennett, C. Baldassano.<i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i>
+ <br><a href="https://github.com/dpmlab/imgtofmri/blob/main/science_overview.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
+</td>
+<td style="width:70px"><img src="icons/imgtofmri.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
  <td style="width:70px"><img src="icons/4iar.png"></td>
 <td style="width:410px">J. Huang, I. Velarde, W.J. Ma, C. Baldassano.<i>"Schema-based predictive eye movements support sequential memory encoding."</i> PsyArXiv, 2022.
 <br><a href="https://psyarxiv.com/gej7q/">[PsyArXiv link]</a>
