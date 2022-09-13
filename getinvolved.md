@@ -4,7 +4,7 @@
 If you are a Columbia student and would like to learn more about research in the lab, we are often looking for help with tasks such as designing and annotating stimuli, transcribing or coding verbal recall data, preparing presentation materials, and (for more experienced RAs) running experiments with human subjects. If interested, please email the lab manager at <columbiadpml@gmail.com> with your resume, a short description about why you are interested in working in the lab, and your availability.
 
 
-## Independent study and Honors Program
+## Independent study and Thesis Program
 If you are a Columbia student and are interested in working on a research project for course credit (UN3950 "Supervised Individual Research"), contact Dr. Baldassano at <c.baldassano@columbia.edu> to inquire about the current availability of independent study positions in the lab. Students starting their Junior year (or their second-to-last year) should also consider applying for the [Senior Thesis Advanced Research](https://psychology.columbia.edu/content/psychneuro-senior-thesis-advanced-research) program which involves supervised research during your final three semesters.
 
 
