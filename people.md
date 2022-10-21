@@ -42,11 +42,21 @@
 <table style="width:100%">
 <tr>
 <td style="width:200px"><img src="img/jiawen.jpg"></td>
-<td style="width:280px"><b>Jiawen Huang</b>: After finishing from UCL’s BSc Psychology program, Jiawen stayed at UCL as a RA to build a database of people watching movies in fMRI. He is interested in how memory works in context, such as during movie viewing. He also hopes to explore methods to study memory with more complex tasks such as interactive games. 
+<td style="width:280px"><b>Jiawen Huang</b>: After finishing UCL’s BSc Psychology program, Jiawen stayed at UCL as a RA to build a database of people watching movies in fMRI. He is interested in how memory works in context, such as during movie viewing. He also hopes to explore methods to study memory with more complex tasks such as interactive games. 
 <br>
 </td>
 </tr>
 </table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Taylor Chamberlain</b>: After finishing her BA at University of Chicago, Taylor worked as a software developer, and then returned to UChicago to work as a lab manager in the psychology department. She's interested in using fMRI and behavioral experiments to study how memory and attention interact, particularly in more naturalistic task paradigms. 
+<br>
+</td>
+<td style="width:200px"><img src="img/taylor_pic.png"></td>
+</tr>
+</table>
+
 
 ## Lab manager
 <table style="width:100%">
@@ -89,50 +99,6 @@
 ## Research Assistants
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Rachel Nielson</b>: Rachel is a second-year undergraduate at Columbia University (Dual BA with List College). Currently, she is studying Neuroscience and Ethics. She is most interested in the complexities of memory and the science behind learning. She is also passionate about neurodiversity advocacy. Fun Fact: She is from the opposite coast of the country (California). West coast best coast!
-<br>
-</td>
-<td style="width:200px"><img src="img/rachel_nielson.png"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/julia_soares.png"></td>
-<td style="width:280px"><b>Julia Soares</b>: Julia is a junior at Columbia University majoring in Neuroscience and Behavior. She is interested in the molecular mechanisms behind memory retrieval and encoding. In her free time, she enjoys reading, roller skating, and making collages.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Isabel Velarde</b>: Isabel is a recent graduate of Fordham University with a double major in mathematics and philosophy. She is currently a post-bac student in Psychology at Columbia University and is hoping to study something related to memory or language.
-<br>
-</td>
-<td style="width:200px"><img src="img/Isabel_Velarde.png"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/chloe_lambert.png"></td>
-<td style="width:280px"><b>Chloe Lambert</b>: Chloe is a sophomore at Columbia University studying Neuroscience and Mathematics. She is interested in the neural mechanisms underlying decision making, memory and learning. Music plays a large role in her life as she is a singer/songwriter. She also enjoys walking around the city, going to museums and photography.
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Yumiko Wiranto</b>: Yumiko is a second-year master’s student in Psychology in Education at Teachers College, Columbia University. Her research interest revolves around prevention, assessment, and neurorehabilitation in the population suffering from cognitive decline (e.g., MCI and dementia), and its impact on memory.  Outside of the academic setting, Yumiko enjoys dancing, playing the piano, and engaging in aquatic activities.
-</td>
-<td style="width:200px"><img src="img/Yumiko_Wiranto.png"></td>
-</tr>
-</table>
-
-
-<table style="width:100%">
-<tr>
 <td style="width:200px"><img src="img/franck.jpeg"></td>
 <td style="width:280px"><b>Franck Mugisho</b>: Franck is a rising sophomore at Columbia University pursuing a Bachelor’s degree in Computer Science. He enjoys reading about the brain and psychology in general and is interested in designing computer software that will shed light on how the brain processes information. Franck’s hobbies include watching soccer games, biking, running, and spending time with family and friends.
 <br>
@@ -167,32 +133,42 @@
 </tr>
 </table>
 
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/Jason_Wang.jpg"></td>
-<td style="width:280px"><b>Jason Wang</b>: Jason Wang is a senior in Columbia College who values curiosity and creativity above all else. As a Neuroscience student on the premed track as well as a violinist, he is always on the lookout for new possibilities to fuse artistic mindfulness with psychiatric methods. Over the summer of 2019, he worked as an artist and curator in the Athens Curatorial Project, where he created an audio installation that explored the prevalence and impact of cultural clichés on the Greek collective unconscious.
-<br>
-</td>
-</tr>
-</table>
-
 
 <table style="width:100%">
 <tr>
+  <td style="width:200px"><img src="img/Ally_Lin.jpg"></td>
 <td style="width:280px"><b>Allie Yuxin Lin</b>: Allie is a sophomore undergraduate studying Political Science and Psychology at Columbia. She is interested in combining her two majors in the study of political psychology, and is fascinated by the world of neuropsychology. When she's not frantically working on academic work, she enjoys writing poetry and creating visual art with watercolor and occasionally ink and water.
 <br>
 </td>
-<td style="width:200px"><img src="img/Ally_Lin.jpg"></td>
 </tr>
 </table>
 
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"><img src="img/Angel.jpeg"></td>
 <td style="width:280px"><b>Angel Latt</b>: Angel is an undergraduate student at Columbia College studying Neuroscience and Behavior. She is interested in gaining insights into human behavior, particularly in the field of neural mechanisms and developmental neurology. In addition to her love for all things brain related, she is also passionate about promoting science and health education to the broader general public. When she isn’t in the lab or doesn’t have her nose stuck in a textbook, she enjoys exploring the city, reading, volunteering, listening to all kinds of music, and baking too much.
 <br>
 </td>
+  <td style="width:200px"><img src="img/Angel.jpeg"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+  <td style="width:200px"><img src="img/akshay_pic.jpeg"></td>
+<td style="width:280px"><b>Akshay Manglik</b>: Akshay is an undergraduate at Columbia College studying Computer Science. He is interested in applying computational techniques to analyze neural representations in neuroimaging, especially in the context of memory and imagination. In his free time, he enjoys dancing as a part of Columbia Raas, participating in Quiz Bowl, and baking.
+<br>
+</td>
+</tr>
+</table>
+
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Hannah Zeng</b>: When Hannah Zeng is not hopping around making interfaces and installations, she studies cognitive science. She joins the lab to understand how we dynamically make sense of the ever-changing event structure in the real world, such as appreciating a piece of music or playing games. She has written about science as a science communicator and translator, which is part of her small attempt to promote open science.
+<br>
+</td>
+  <td style="width:200px"><img src="img/hannah_pic.jpeg"></td>
 </tr>
 </table>
 
@@ -208,6 +184,18 @@
 <b>Sunjae Shim</b> (Undergraduate Senior Thesis student)
 
 <b>Mareike Keller</b> (Undergraduate Senior Thesis student)
+
+<b>Rachel Nielson</b> (Research Assistant)
+
+<b>Julia Soares</b> (Research Assistant)
+
+<b>Isabel Velarde</b> (Research Assistant)
+
+<b>Chloe Lambert</b> (Research Assistant)
+
+<b>Yumiko Wiranto</b> (Research Assistant)
+
+<b>Jason Wang</b> (Research Assistant)
 
 <b>Cindy Gao</b> (Research Assistant)
 
