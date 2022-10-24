@@ -28,18 +28,18 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
-<table>
-<tr>
-<td style="width:70px"><img src="icons/icon_ty.png"></td>
-<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> bioRxiv, 2021.
-<br><a href="https://www.biorxiv.org/content/10.1101/2021.06.16.448755v1">[bioRxiv link]</a>
-</td>
-</tr>
-</table>
-
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> PNAS, 2022.
+<br><a href="https://doi.org/10.1073/pnas.2200257119">[journal link]</a> | <a href="papers/pnas.2200257119.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_ty.png"></td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:410px">S.S. Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
