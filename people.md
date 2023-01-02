@@ -96,6 +96,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Sam_Hutchinson.png"></td>
+<td style="width:280px"><b>Sam Hutchinson</b>: Sam is a senior in Columbia College majoring in cognitive science with a concentration in computer science. He is fascinated by the complex ways humans use and interpret language as well as the explanatory power of computational models to investigate these behaviors. When he's not trying to puzzle these things out, he loves exploring New York's many restaurants and collecting used books.
+<br>
+</td>
+</tr>
+</table>
+
 ## Research Assistants
 <table style="width:100%">
 <tr>
