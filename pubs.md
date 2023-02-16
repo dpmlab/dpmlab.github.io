@@ -53,7 +53,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
 <td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> eLife, 2022.
-<br><a href="https://doi.org/10.7554/eLife.70445">[journal link]</a> | <a href="papers/elife-70445-v1.pdf">[pdf]</a>
+<br><a href="https://doi.org/10.7554/eLife.70445">[journal link]</a> | <a href="papers/elife-70445-v1.pdf">[pdf]</a><br>
+<a href="https://figshare.com/articles/dataset/Recall_Transcripts_for_Event_Schema_Experiment/22114298">Recall transcripts</a>
 </td>
 </tr>
 </table>
