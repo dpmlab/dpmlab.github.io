@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+ <td style="width:70px"><img src="icons/sachs_icon.png"></td>
+<td style="width:410px">M.E. Sachs, K.N. Ochsner, C. Baldassano.<i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">M. Bennett, C. Baldassano.<i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i>
  <br><a href="https://github.com/dpmlab/imgtofmri/blob/main/science_overview.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
 </td>
