@@ -105,6 +105,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Yifang Liu</b>: As a junior studying Neuroscience and Behavior at the School of General Studies, I am currently working on my senior thesis project that delves into the effects of agency on memory performance in multi-step sequential planning. My project was inspired by my love for gaming and seeks to investigate how agency can impact memory in more realistic contexts. I also explore my passions for photography and video games in my free time. These creative pursuits serve as a wellspring of inspiration for me, especially when it comes to the naturalistic stimuli they offer!
+<br>
+</td>
+<td style="width:200px"><img src="img/photo_yl.jpg"></td>
+</tr>
+</table>
+
 ## Research Assistants
 <table style="width:100%">
 <tr>
