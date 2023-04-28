@@ -3,16 +3,25 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano, M. Aly. <i>"Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features."</i> PsyArXiv, 2023.
+ <br><a href="https://psyarxiv.com/x2f7s">[PsyArXiv link]</a>
+</td>
+  <td style="width:70px"><img src="icons/predcons.jpg"></td>
+</tr>
+</table>
+
+<table>
+<tr>
  <td style="width:70px"><img src="icons/sachs_icon.png"></td>
-<td style="width:410px">M.E. Sachs, K.N. Ochsner, C. Baldassano.<i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv]</a>
+<td style="width:410px">M.E. Sachs, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width:410px">M. Bennett, C. Baldassano.<i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i>
+<td style="width:410px">M. Bennett, C. Baldassano. <i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i>
  <br><a href="https://github.com/dpmlab/imgtofmri/blob/main/science_overview.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
 </td>
 <td style="width:70px"><img src="icons/imgtofmri.png"></td>
@@ -22,7 +31,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
  <td style="width:70px"><img src="icons/contstim.png"></td>
-<td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano.<i>"Testing the limits of natural language models for predicting human language judgments."</i> arXiv, 2022.
+<td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano. <i>"Testing the limits of natural language models for predicting human language judgments."</i> arXiv, 2022.
 <br><a href="https://arxiv.org/abs/2204.03592">[arXiv link]</a>
 </td>
 </tr>
@@ -33,7 +42,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
-<td style="width:410px">J. Huang, I. Velarde, W.J. Ma, C. Baldassano.<i>"Schema-based predictive eye movements support sequential memory encoding."</i> eLife, 2023.
+<td style="width:410px">J. Huang, I. Velarde, W.J. Ma, C. Baldassano. <i>"Schema-based predictive eye movements support sequential memory encoding."</i> eLife, 2023.
 <br><a href="https://doi.org/10.7554/eLife.82599">[journal link]</a> | <a href="papers/elife-82599-v2.pdf">[pdf]</a>
 </td>
   <td style="width:70px"><img src="icons/4iar.png"></td>
@@ -43,7 +52,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_ty.png"></td>
-<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne.<i>"Neural event segmentation of continuous experience in human infants."</i> PNAS, 2022.
+<td style="width:410px">T.S. Yates, L.J. Skalaban, C.T. Ellis, A.J. Bracher, C. Baldassano, N.B. Turk-Browne. <i>"Neural event segmentation of continuous experience in human infants."</i> PNAS, 2022.
 <br><a href="https://doi.org/10.1073/pnas.2200257119">[journal link]</a> | <a href="papers/pnas.2200257119.pdf">[pdf]</a>
 </td>
 </tr>
@@ -51,7 +60,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">S.S. Cohen, C. Baldassano.<i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
+<td style="width:410px">S.S. Cohen, C. Baldassano. <i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
 <br><a href="https://doi.org/10.7554/eLife.69430">[journal link]</a> | <a href="papers/elife-69430-v2.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_HBN.png"></td>
@@ -61,7 +70,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_schema.png"></td>
-<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> eLife, 2022.
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano. <i>"Schema representations in distinct brain networks support narrative memory during encoding and retrieval."</i> eLife, 2022.
 <br><a href="https://doi.org/10.7554/eLife.70445">[journal link]</a> | <a href="papers/elife-70445-v1.pdf">[pdf]</a><br>
 <a href="https://figshare.com/articles/dataset/Recall_Transcripts_for_Event_Schema_Experiment/22114298">Recall transcripts</a>
 </td>
@@ -89,7 +98,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow.<i>"Brain kernel: a new spatial covariance function for fMRI data."</i> NeuroImage, 2021.
+<td style="width:410px">A. Wu, S.A. Nastase, C. Baldassano, N.B. Turk-Browne, K.A. Norman, B.E. Engelhardt, J.W. Pillow. <i>"Brain kernel: a new spatial covariance function for fMRI data."</i> NeuroImage, 2021.
 <br><a href="https://doi.org/10.1016/j.neuroimage.2021.118580">[journal link]</a> | <a href="papers/1-s2.0-S1053811921008533-main.pdf">[pdf]</a>
 </td>
  <td style="width:70px"><img src="icons/icon_kernel.png"></td>
