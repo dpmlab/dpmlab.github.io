@@ -3,7 +3,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:410px">H. Tarder-Stoll, C. Baldassano, M. Aly. <i>"Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features."</i> PsyArXiv, 2023.
+ <td style="width:70px"><img src="icons/prednav.jpg"></td>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The brain hierarchically represents the past and future during multistep anticipation."</i> bioRxiv, 2023.
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.07.24.550399v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features."</i> PsyArXiv, 2023.
  <br><a href="https://psyarxiv.com/x2f7s">[PsyArXiv link]</a>
 </td>
   <td style="width:70px"><img src="icons/predcons.jpg"></td>
