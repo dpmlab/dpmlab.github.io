@@ -46,18 +46,17 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
+## Journal Publications
 <table>
 <tr>
  <td style="width:70px"><img src="icons/contstim.png"></td>
-<td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano. <i>"Testing the limits of natural language models for predicting human language judgments."</i> arXiv, 2022.
+<td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano. <i>"Testing the limits of natural language models for predicting human language judgments."</i> Nature Machine Intelligence, 2023.
 <br><a href="https://arxiv.org/abs/2204.03592">[arXiv link]</a>
 </td>
 </tr>
 </table>
 
-
-
-## Journal Publications
 <table>
 <tr>
 <td style="width:410px">J. Huang, I. Velarde, W.J. Ma, C. Baldassano. <i>"Schema-based predictive eye movements support sequential memory encoding."</i> eLife, 2023.
