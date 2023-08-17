@@ -31,7 +31,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
  <td style="width:70px"><img src="icons/sachs_icon.png"></td>
-<td style="width:410px">M.E. Sachs, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
+<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
  <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
 </td>
 </tr>
