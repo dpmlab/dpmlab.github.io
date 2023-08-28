@@ -50,6 +50,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
+<td style="width:410px">C. Baldassano. <i>"Studying waves of prediction in the brain using narratives."</i> Neuropsychologia, 2023.
+<br><a href="https://doi.org/10.1016/j.neuropsychologia.2023.108664">[journal link]</a> | <a href="papers/1-s2.0-S0028393223001987-main.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/waves.jpg"></td>
+</tr>
+</table>
+
+<table>
+<tr>
  <td style="width:70px"><img src="icons/contstim.png"></td>
 <td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano. <i>"Testing the limits of natural language models for predicting human language judgments."</i> Nature Machine Intelligence, 2023.
 <br><a href="https://arxiv.org/abs/2204.03592">[arXiv link]</a>
