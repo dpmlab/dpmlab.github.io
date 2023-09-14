@@ -37,17 +37,17 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
+
+## Journal Publications
 <table>
 <tr>
-<td style="width:410px">M. Bennett, C. Baldassano. <i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i>
+<td style="width:70px"><img src="icons/imgtofmri.png"></td>
+<td style="width:410px">M. Bennett, C. Baldassano. <i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i> Aperture Neuro, 2023.
  <br><a href="https://github.com/dpmlab/imgtofmri/blob/main/science_overview.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
 </td>
-<td style="width:70px"><img src="icons/imgtofmri.png"></td>
 </tr>
 </table>
 
-
-## Journal Publications
 <table>
 <tr>
 <td style="width:410px">C. Baldassano. <i>"Studying waves of prediction in the brain using narratives."</i> Neuropsychologia, 2023.
@@ -61,7 +61,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
  <td style="width:70px"><img src="icons/contstim.png"></td>
 <td style="width:410px">T. Golan*, M. Siegelman*, N. Kriegeskorte, C. Baldassano. <i>"Testing the limits of natural language models for predicting human language judgments."</i> Nature Machine Intelligence, 2023.
-<br><a href="https://arxiv.org/abs/2204.03592">[arXiv link]</a>
+<br><a href="https://www.nature.com/articles/s42256-023-00718-1">[journal link]</a> | <a href="papers/s42256-023-00718-1.pdf">[pdf]</a>
 </td>
 </tr>
 </table>
