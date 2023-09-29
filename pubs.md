@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+ <td style="width:70px"><img src="icons/ripple.jpg"></td>
+<td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla<i> "Neocortico-hippocampal ripple-based coordination during naturalistic encoding."</i> bioRxiv, 2023.
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.09.27.559739v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano.<i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> bioRxiv, 2023.
  <br><a href="https://www.biorxiv.org/content/10.1101/2023.08.08.552465v1">[bioRxiv link]</a>
 </td>
