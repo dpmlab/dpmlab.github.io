@@ -142,6 +142,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Morell Kenmoe</b>: Morell is a class of '25 pre-med student at Columbia University studying Neuroscience and Behavior. He is interested in learning more about human behavior and decision making from both the psychological and biological perspectives. In his free time he enjoys playing basketball, listening to music, and spending time with friends and family.
+<br>
+</td>
+<td style="width:200px"><img src="img/Morell.jpeg"></td>
+</tr>
+</table>
+
 
 
 
