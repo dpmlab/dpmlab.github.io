@@ -51,10 +51,10 @@
 ## Lab manager
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Alexandra Reblando</b>: Alex enjoys contemplating the forms of schemas: their creation, machinations, and interaction with perception and memory. In repose, she works on expanding her own schemas particularly those of art museums, restaurants, and dingy music venues.
+<td style="width:200px"><img src="img/Narjes.JPG"></td>
+<td style="width:280px"><b>Narjes Al-Zahli</b>: After finishing her BA in Computer Science and Psychology at Columbia University, Narjes joined the DPM and Aly Labs as a lab manager and research assistant. She is interested in understanding the connection between temporal schemas, time perception, and predictability. In her free time, she enjoys rock-climbing, reading and being in nature.
 <br>
 </td>
-<td style="width:200px"><img src="img/reblando_close.jpeg"></td>
 </tr>
 </table>
 
