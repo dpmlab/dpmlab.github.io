@@ -50,6 +50,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
+<td style="width:410px">C. Lee, J. Han, M. Feilong, G. Jiahui, J. Haxby, C. Baldassano. <i>"Hyper-HMM: aligning human brains and semantic features in a common latent event space."</i> NeurIPS, 2023.
+ <br><a href="https://openreview.net/forum?id=w6krZiUa7t">[proceedings link]</a> | <a href="papers/8510_hyper_hmm_aligning_human_brain.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/hhmm.jpg"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/imgtofmri.png"></td>
 <td style="width:410px">M. Bennett, C. Baldassano. <i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i> Aperture Neuro, 2023.
  <br><a href="https://doi.org/10.52294/001c.87545">[journal link]</a> | <a href="papers/87545-img2fmri.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
