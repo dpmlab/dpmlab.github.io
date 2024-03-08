@@ -9,6 +9,15 @@
 </tr>
 </table>
 
+## Postdocs
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/marta.jpg"></td>
+<td style="width:280px"><b>Marta Silva</b>: After finishing her Integrated BSE/MSE in Biomedical and Biophysical Engineering, Marta joined the University of Barcelona for her doctoral students which were completed in 2023. In her work she focuses on breaking new ground on how memories from one's past get represented in the brain by tracking, prospectively, essential electrophysiology properties for everyone’s real-life episodic event experience.
+<br>
+</td>
+</tr>
+</table>
 
 ## PhD Students
 <table style="width:100%">
