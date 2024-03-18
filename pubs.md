@@ -331,6 +331,20 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Theses
 <table>
 <tr>
+<td style="width:410px">M. Siegelman. <i>"Generating structured stimuli for investigations of human behavior and brain activity with computational models."</i> PhD Dissertation.
+<br><a href="https://doi.org/10.7916/vbtm-gz89">[Columbia Library]</a> | <a href="papers/Siegelman_columbia_0054D_18232.pdf">[pdf]</a></td>
+<td style="width:70px"><img src="icons/MS_diss.png"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td style="width:70px"><img src="icons/HTS_diss.png"></td>
+ <td style="width:410px">H. Tarder-Stoll. <i>"Flexible representations of temporal structure guide multistep prediction."</i> PhD Dissertation.
+<br><a href="https://doi.org/10.7916/4eem-re84">[Columbia Library]</a> | <a href="papers/TarderStoll_columbia_0054D_18050.pdf">[pdf]</a></td>
+</tr>
+</table>
+<table>
+<tr>
 <td style="width:410px">C. Baldassano. <i>"Visual scene perception in the human brain: connections to memory, categorization, and social cognition."</i> PhD Dissertation.
 <br><a href="https://stacks.stanford.edu/file/druid:hn881py5906/dissertation_submit-augmented.pdf">[Stanford Library]</a> | <a href="papers/Baldassano_PhD_thesis_2015.pdf">[pdf]</a></td>
 <td style="width:70px"><img src="icons/icon_diss.png"></td>
