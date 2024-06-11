@@ -114,6 +114,26 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Gabriella Calabia</b>: Gabriella is an I.I. Rabi Research Scholar at Columbia College studying Cognitive Science and English literature. She investigates memory, time, and the conceptualization of narratives through the intersection of neuroscience and film. Gabriella is also an editor on <i>The Gadfly</i>, Columbia’s philosophy magazine, and vice president of the Columbia Undergrad Sketch Show. Outside of the lab, she loves hiking, skiing, and painting.
+
+
+<br>
+</td>
+<td style="width:200px"><img src="img/GCalabia.jpg"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/DCV.jpg"></td>
+<td style="width:280px"><b>Caroline (Dana) Lauren Villamin</b>: Caroline is a Class of ’27 undergraduate at Barnard College studying Cognitive Science. She is interested in applying her background in linguistics to research how memory is organized in the brain in relation to language processing. In her free time she likes to play guitar, explore the city, and collect vintage postcards.
+<br>
+</td>
+</tr>
+</table>
+
 
 
 
