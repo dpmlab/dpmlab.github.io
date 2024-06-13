@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:70px"><img src="icons/predbound.jpg"></td>
+<td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano.<i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
+<br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">J. Huang, E. Furness, Y. Liu, M.-J. Kenmoe, R. Elias, H.T. Zeng, C. Baldassano. <i>"Accurate predictions facilitate robust memory encoding independently from stimulus probability."</i> PsyArXiv, 2023.
  <br><a href="https://osf.io/preprints/psyarxiv/dhzvc">[PsyArXiv link]</a>
 </td>
