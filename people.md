@@ -67,35 +67,26 @@
 </tr>
 </table>
 
-## Undergraduate Senior Thesis students
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/katie_mae_peters.png"></td>
-<td style="width:280px"><b>Katie Mae Peters</b>: Katie Mae Peters' passion for action films started the moment she watched Keanu jump a bus over the gap in an incomplete LA freeway. Since then she spent the past ten years in the film industry gaining experience by working with everyone from Dog the Bounty Hunter to Ron Burgandy. Her eye for creative producing has led her to create several award winning films and earn several grants including a 2021 Hollywood Foreign Press Fellowship. She currently attends Columbia University where she is researching the negative impacts certain color grading and production design choices in film have on the way audiences form empathetic attachments to POC characters and foreign countries.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Yifang Liu</b>: As a junior studying Neuroscience and Behavior at the School of General Studies, Yifang is currently working on her senior thesis project that delves into the effects of agency on memory performance in multi-step sequential planning. Her project was inspired by her love for gaming and seeks to investigate how agency can impact memory in more realistic contexts. She also explores her passions for photography and video games in her free time. These creative pursuits serve as a wellspring of inspiration for her, especially when it comes to the naturalistic stimuli they offer!
-<br>
-</td>
-<td style="width:200px"><img src="img/photo_yl.jpg"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/hannah_pic.jpeg"></td>
-<td style="width:280px"><b>Hannah Zeng</b>: When Hannah Zeng is not hopping around making interfaces and installations, she studies cognitive science. She joins the lab to understand how we dynamically make sense of the ever-changing event structure in the real world, such as appreciating a piece of music or playing games. She has written about science as a science communicator and translator, which is part of her small attempt to promote open science.
-<br>
-</td>
-</tr>
-</table>
 
 ## Research Assistants
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Francesca Castellarin</b>: Francesca is a rising junior at Barnard College studying Cognitive Science. She is interested in learning more about social cognition as it relates to neural representations of information and events and how these representations might vary across cultures. In her free time, she enjoys exploring the city, yoga, and spending time with friends and family.
+<br>
+</td>
+<td style="width:200px"><img src="img/Francesca.png"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Ellie.jpg"></td>
+<td style="width:280px"><b>Ellie Suzuki</b>: Ellie is at Barnard studying Cognitive Science. She is interested in consciousness, as well as the intersection of art—especially music—and the brain. In her free time she is either finding new albums to listen to or is outside enjoying nature.
+<br>
+</td>
+</tr>
+</table>
+
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Akshay Manglik</b>: Akshay is an undergraduate at Columbia College studying Computer Science. He is interested in applying computational techniques to analyze neural representations in neuroimaging, especially in the context of memory and imagination. In his free time, he enjoys dancing as a part of Columbia Raas, participating in Quiz Bowl, and baking.
@@ -117,8 +108,6 @@
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Gabriella Calabia</b>: Gabriella is an I.I. Rabi Research Scholar at Columbia College studying Cognitive Science and English literature. She investigates memory, time, and the conceptualization of narratives through the intersection of neuroscience and film. Gabriella is also an editor on <i>The Gadfly</i>, Columbia’s philosophy magazine, and vice president of the Columbia Undergrad Sketch Show. Outside of the lab, she loves hiking, skiing, and painting.
-
-
 <br>
 </td>
 <td style="width:200px"><img src="img/GCalabia.jpg"></td>
@@ -140,6 +129,13 @@
 
 
 ## Former Lab Members
+
+<b>Katie Mae Peters</b> (Undergraduate Senior Thesis student)
+
+<b>Yifang Liu</b> (Undergraduate Senior Thesis student)
+
+<b>Hannah Zeng</b> (Undergraduate Senior Thesis student)
+
 <b><a href="https://hallezucker.com/">Halle Dimsdale-Zucker</a></b> (Postdoc)
 
 <b><a href="https://sites.google.com/view/samanthacohen/home">Samantha Cohen</a></b> (Postdoc)
