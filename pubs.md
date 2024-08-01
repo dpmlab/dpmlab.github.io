@@ -31,7 +31,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano.<i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> bioRxiv, 2023.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.08.08.552465v1">[bioRxiv link]</a>
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.08.08.552465v2">[bioRxiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/topdown.jpg"></td>
 </tr>
