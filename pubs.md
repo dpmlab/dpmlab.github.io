@@ -48,24 +48,24 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features."</i> PsyArXiv, 2023.
- <br><a href="https://psyarxiv.com/x2f7s">[PsyArXiv link]</a>
-</td>
-  <td style="width:70px"><img src="icons/predcons.jpg"></td>
-</tr>
-</table>
-
-<table>
-<tr>
- <td style="width:70px"><img src="icons/sachs_icon.png"></td>
 <td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
  <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
 </td>
+<td style="width:70px"><img src="icons/sachs_icon.png"></td>
 </tr>
 </table>
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:70px"><img src="icons/predcons.jpg"></td>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features."</i> Psychological Science, 2024.
+ <br><a href="https://doi.org/10.1177/09567976241256617">[journal link]</a> | <a href="papers/psychsci2024.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:410px">C. Lee, J. Han, M. Feilong, G. Jiahui, J. Haxby, C. Baldassano. <i>"Hyper-HMM: aligning human brains and semantic features in a common latent event space."</i> NeurIPS, 2023.
