@@ -340,22 +340,52 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Theses
 <table>
 <tr>
-<td style="width:410px">M. Siegelman. <i>"Generating structured stimuli for investigations of human behavior and brain activity with computational models."</i> PhD Dissertation.
-<br><a href="https://doi.org/10.7916/vbtm-gz89">[Columbia Library]</a> | <a href="papers/Siegelman_columbia_0054D_18232.pdf">[pdf]</a></td>
-<td style="width:70px"><img src="icons/MS_diss.png"></td>
+<td style="width:410px">H.T. Zeng. <i>"A Novel Board Game Paradigm for Studying the Acquisition of Overlapping Schemas."</i> Undergraduate Senior Thesis. 2024.
+<br><a href="papers/Zeng_TX_Thesis.pdf">[pdf]</a></td>
 </tr>
-</table>
-<table>
+
 <tr>
-<td style="width:70px"><img src="icons/HTS_diss.png"></td>
- <td style="width:410px">H. Tarder-Stoll. <i>"Flexible representations of temporal structure guide multistep prediction."</i> PhD Dissertation.
+<td style="width:410px">Y. Liu. <i>"The Effect of Agency on Memory Performance in Multi-step Sequential Plan-making Using Turn-based Strategy Video Board Game."</i> Undergraduate Senior Thesis. 2024.
+<br><a href="papers/Yifang_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">M. Siegelman. <i>"Generating structured stimuli for investigations of human behavior and brain activity with computational models."</i> PhD Dissertation. 2024.
+<br><a href="https://doi.org/10.7916/vbtm-gz89">[Columbia Library]</a> | <a href="papers/Siegelman_columbia_0054D_18232.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">H. Tarder-Stoll. <i>"Flexible representations of temporal structure guide multistep prediction."</i> PhD Dissertation. 2023.
 <br><a href="https://doi.org/10.7916/4eem-re84">[Columbia Library]</a> | <a href="papers/TarderStoll_columbia_0054D_18050.pdf">[pdf]</a></td>
 </tr>
-</table>
-<table>
+
 <tr>
-<td style="width:410px">C. Baldassano. <i>"Visual scene perception in the human brain: connections to memory, categorization, and social cognition."</i> PhD Dissertation.
+<td style="width:410px">G. Charite. <i>"Relaxing Breaks in Online University Lectures May Improve Learning Outcomes."</i> Undergraduate Senior Thesis. 2023.
+<br><a href="papers/Gloria_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">K. Feng. <i>"Rewriting Memory Lane: Investigating the Effect of Script Retraining on Memory Recall."</i> Undergraduate Senior Thesis. 2023.
+<br><a href="papers/Karina_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">S. Hutchinson. <i>"Classifying Online Misinformation with Cognitively-Informed Features from Transformer Language Models."</i> Undergraduate Senior Thesis. 2023.
+<br><a href="papers/Hutchinson_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">M.C. Keller. <i>"How can we effectively reinstate narrative memory?."</i> Undergraduate Senior Thesis. 2022.
+<br><a href="papers/Mareike_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">S. Shim. <i>"Event Segmentation from Working Memory Load Manipulation."</i> Undergraduate Senior Thesis. 2021.
+<br><a href="papers/Sunjae_Thesis.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">C. Baldassano. <i>"Visual scene perception in the human brain: connections to memory, categorization, and social cognition."</i> PhD Dissertation. 2015.
 <br><a href="https://stacks.stanford.edu/file/druid:hn881py5906/dissertation_submit-augmented.pdf">[Stanford Library]</a> | <a href="papers/Baldassano_PhD_thesis_2015.pdf">[pdf]</a></td>
-<td style="width:70px"><img src="icons/icon_diss.png"></td>
 </tr>
 </table>
