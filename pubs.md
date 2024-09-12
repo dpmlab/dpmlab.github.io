@@ -125,7 +125,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">S.S. Cohen, C. Baldassano. <i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
+<td style="width:410px">S.S. Cohen, N. Tottenham, C. Baldassano. <i>"Developmental changes in story-evoked responses in the neocortex and hippocampus."</i> eLife, 2022.
 <br><a href="https://doi.org/10.7554/eLife.69430">[journal link]</a> | <a href="papers/elife-69430-v2.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_HBN.png"></td>
