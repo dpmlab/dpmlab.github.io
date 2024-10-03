@@ -51,7 +51,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano.<i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> Current Biology, 2024.
- <br><a href="https://www.doi.org/10.1016/j.cub.2024.09.013">[joiurnal link]</a> | <a href="papers/PIIS0960982224012247.pdf">[pdf]</a>
+ <br><a href="https://www.doi.org/10.1016/j.cub.2024.09.013">[joiurnal link]</a> | <a href="papers/PIIS0960982224012247.pdf">[pdf w/ supplementary]</a>
  <br><a href="https://github.com/dpmlab/ScriptPriming">GitHub (code and behavioral data)</a> |
  <a href="https://doi.org/10.18112/openneuro.ds004631.v1.0.0">fMRI data</a> |
  <a href="https://figshare.com/projects/Script_Combination_Stories/168656">Audio stimuli</a>
