@@ -68,7 +68,34 @@
 </table>
 
 
-## Research Assistants
+## Undergraduate RAs and Thesis students
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Philip.jpeg"></td>
+<td style="width:280px"><b>Philip Tham</b>: Philip is a senior in the Columbia and Sciences Po Dual BA Program. He majors in Political Science and Cognitive Science (specializing in Artificial Intelligence) and minors in Computer Science. He's interested in using computational methods to explore brain functionality, and likes gymming and running in his spare time.
+<br>
+</td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Ainsley Cunningham</b>: Ainsley is a senior at Columbia College studying Cognitive Science. She is interested in the convergence of aesthetics, technology, and cognition, and for her senior thesis she will be studying the relationship between epistemic curiosity and narrative tension to learn more about why we read stories.
+<br>
+</td>
+<td style="width:200px"><img src="img/Ainsley.png"></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Jaeho_Kim.jpg"></td>
+<td style="width:280px"><b>Jaeho Kim</b>: Jaeho is a John Jay Scholar at Columbia College studying Cognitive Science and Philosophy. His research focuses on source-monitoring, specifically how we distinguish between real-world and virtual events. He is developing a senior thesis on how humans perceive and misidentify non-human agents in virtual environments. Outside of Columbia, Jaeho collaborates with artists on film, game, and music projects that apply cognitive science concepts. In his free time, he loves to cook. 
+<br>
+</td>
+</tr>
+</table>
+
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Francesca Castellarin</b>: Francesca is a rising junior at Barnard College studying Cognitive Science. She is interested in learning more about social cognition as it relates to neural representations of information and events and how these representations might vary across cultures. In her free time, she enjoys exploring the city, yoga, and spending time with friends and family.
