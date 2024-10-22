@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker.<i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> bioRxiv, 2024.
+<br><a href="https://www.biorxiv.org/content/10.1101/2024.10.19.619187v1">[bioRxiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/mreye.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/predbound.jpg"></td>
 <td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano.<i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
 <br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
