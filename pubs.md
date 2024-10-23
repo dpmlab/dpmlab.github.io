@@ -39,18 +39,9 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The brain hierarchically represents the past and future during multistep anticipation."</i> bioRxiv, 2023.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.07.24.550399v1">[bioRxiv link]</a>
-</td>
-<td style="width:70px"><img src="icons/prednav.jpg"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width:70px"><img src="icons/sachs_icon.png"></td>
 <td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
  <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
+<td style="width:70px"><img src="icons/sachs_icon.png"></td>
 </td>
 </tr>
 </table>
@@ -59,8 +50,17 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
+<td style="width:70px"><img src="icons/prednav.jpg"></td>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The brain hierarchically represents the past and future during multistep anticipation."</i> Nature Communications, 2024.
+ <br><a href="https://doi.org/10.1038/s41467-024-53293-3">[journal link]</a> | <a href="papers/s41467-024-53293-3.pdf">[pdf w/ supplementary]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano.<i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> Current Biology, 2024.
- <br><a href="https://www.doi.org/10.1016/j.cub.2024.09.013">[joiurnal link]</a> | <a href="papers/PIIS0960982224012247.pdf">[pdf w/ supplementary]</a>
+ <br><a href="https://www.doi.org/10.1016/j.cub.2024.09.013">[journal link]</a> | <a href="papers/PIIS0960982224012247.pdf">[pdf w/ supplementary]</a>
  <br><a href="https://github.com/dpmlab/ScriptPriming">GitHub (code and behavioral data)</a> |
  <a href="https://doi.org/10.18112/openneuro.ds004631.v1.0.0">fMRI data</a> |
  <a href="https://figshare.com/projects/Script_Combination_Stories/168656">Audio stimuli</a>
