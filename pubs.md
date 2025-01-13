@@ -3,6 +3,24 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano.<i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
+<br><a href="https://doi.org/10.1101/2024.12.19.629352">[bioRxiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/mol.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:70px"><img src="icons/palace.png"></td>
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects."</i> bioRxiv, 2024.
+<br><a href="https://doi.org/10.1101/2024.11.26.625465">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker.<i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> bioRxiv, 2024.
 <br><a href="https://www.biorxiv.org/content/10.1101/2024.10.19.619187v1">[bioRxiv link]</a>
 </td>
