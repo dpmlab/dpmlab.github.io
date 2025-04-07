@@ -68,6 +68,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
+<td style="width:410px">C. Durkin, M. Apicella, C. Baldassano, E. Kandel, D. Shohamy. <i>"The Beholder’s Share: Bridging art and neuroscience to study individual differences in subjective experience."</i> PNAS, 2025.
+ <br><a href="https://www.pnas.org/doi/10.1073/pnas.2413871122">[journal link]</a> | <a href="papers/durkin2025.pdf">[pdf w/ supplementary]</a>
+</td>
+<td style="width:70px"><img src="icons/durkin2025.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/prednav.jpg"></td>
 <td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The brain hierarchically represents the past and future during multistep anticipation."</i> Nature Communications, 2024.
  <br><a href="https://doi.org/10.1038/s41467-024-53293-3">[journal link]</a> | <a href="papers/s41467-024-53293-3.pdf">[pdf w/ supplementary]</a>
