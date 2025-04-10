@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:70px"><img src="icons/icon_house.png"></td>
+<td style="width:410px">C.S. Lee, S.S. Cohen, S. Hutchinson,  N. Tottenham,  C. Baldassano.<i>"Past and present caregiving experiences impact prefrontal connectivity and recall for attachment-schema narratives."</i> bioRxiv, 2025.
+<br><a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612953v2">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano.<i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
 <br><a href="https://doi.org/10.1101/2024.12.19.629352">[bioRxiv link]</a>
 </td>
