@@ -5,7 +5,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
 <td style="width:70px"><img src="icons/icon_silver.png"></td>
 <td style="width:410px">B. Silver, \textbf{C. Baldassano}, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
-<br><a href="https://osf.io/qzx3b/">[OSF link]</a>
+<br><a href="https://osf.io/preprints/osf/3tc4m_v1">[OSF link]</a>
 </td>
 </tr>
 </table>
@@ -13,7 +13,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">Y. Abir, J. Mok, C. Baldassano, C. Marvin, D. Shohamy. <i>"Learning Reinforces Curiosity."</i> PsyArXiv, 2025.
-<br><a href="https://osf.io/5mdhq/">[OSF link]</a>
+<br><a href="https://osf.io/preprints/psyarxiv/9bw6j_v2">[OSF link]</a>
 </td>
 <td style="width:70px"><img src="icons/icon_yaniv.png"></td>
 </tr>
