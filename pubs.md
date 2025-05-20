@@ -3,8 +3,26 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:70px"><img src="icons/icon_silver.png"></td>
+<td style="width:410px">B. Silver, \textbf{C. Baldassano}, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
+<br><a href="https://osf.io/qzx3b/">[OSF link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">Y. Abir, J. Mok, C. Baldassano, C. Marvin, D. Shohamy. <i>"Learning Reinforces Curiosity."</i> PsyArXiv, 2025.
+<br><a href="https://osf.io/5mdhq/">[OSF link]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_yaniv.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_house.png"></td>
-<td style="width:410px">C.S. Lee, S.S. Cohen, S. Hutchinson,  N. Tottenham,  C. Baldassano.<i>"Past and present caregiving experiences impact prefrontal connectivity and recall for attachment-schema narratives."</i> bioRxiv, 2025.
+<td style="width:410px">C.S. Lee, S.S. Cohen, S. Hutchinson,  N. Tottenham,  C. Baldassano. <i>"Past and present caregiving experiences impact prefrontal connectivity and recall for attachment-schema narratives."</i> bioRxiv, 2025.
 <br><a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612953v2">[bioRxiv link]</a>
 </td>
 </tr>
@@ -12,7 +30,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano.<i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
+<td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano. <i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
 <br><a href="https://doi.org/10.1101/2024.12.19.629352">[bioRxiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/mol.png"></td>
@@ -22,7 +40,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/palace.png"></td>
-<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano.<i>"How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects."</i> bioRxiv, 2024.
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano. <i>"How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects."</i> bioRxiv, 2024.
 <br><a href="https://doi.org/10.1101/2024.11.26.625465">[bioRxiv link]</a>
 </td>
 </tr>
@@ -30,7 +48,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker.<i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> bioRxiv, 2024.
+<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> bioRxiv, 2024.
 <br><a href="https://www.biorxiv.org/content/10.1101/2024.10.19.619187v1">[bioRxiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/mreye.png"></td>
@@ -40,7 +58,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/predbound.jpg"></td>
-<td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano.<i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
+<td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
 <br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
 </td>
 </tr>
@@ -55,26 +73,26 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 </tr>
 </table>
 
-<table>
-<tr>
- <td style="width:70px"><img src="icons/ripple.jpg"></td>
-<td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla<i> "Neocortico-hippocampal ripple-based coordination during naturalistic encoding."</i> bioRxiv, 2023.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.09.27.559739v1">[bioRxiv link]</a>
-</td>
-</tr>
-</table>
 
+## Journal Publications
 <table>
 <tr>
-<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> bioRxiv, 2023.
+<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> eNeuro, in press.
  <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
 <td style="width:70px"><img src="icons/sachs_icon.png"></td>
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+ <td style="width:70px"><img src="icons/ripple.jpg"></td>
+<td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla. <i> "Movie-watching evokes ripple-like activity within events and at event boundaries."</i> Nature Communications, in press.
+ <br><a href="https://www.biorxiv.org/content/10.1101/2023.09.27.559739v1">[bioRxiv link]</a>
+</td>
+</tr>
+</table>
 
-## Journal Publications
 <table>
 <tr>
 <td style="width:410px">C. Durkin, M. Apicella, C. Baldassano, E. Kandel, D. Shohamy. <i>"The Beholder’s Share: Bridging art and neuroscience to study individual differences in subjective experience."</i> PNAS, 2025.
@@ -95,7 +113,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano.<i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> Current Biology, 2024.
+<td style="width:410px">A. De Soares, T. Kim, F. Mugisho, E. Zhu, A. Lin, C. Zheng,  C. Baldassano. <i> "Top-down attention shifts behavioral and neural event boundaries in narratives with overlapping event scripts."</i> Current Biology, 2024.
  <br><a href="https://www.doi.org/10.1016/j.cub.2024.09.013">[journal link]</a> | <a href="papers/PIIS0960982224012247.pdf">[pdf w/ supplementary]</a>
  <br><a href="https://github.com/dpmlab/ScriptPriming">GitHub (code and behavioral data)</a> |
  <a href="https://doi.org/10.18112/openneuro.ds004631.v1.0.0">fMRI data</a> |
