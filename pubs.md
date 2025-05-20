@@ -406,6 +406,21 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Theses
 <table>
 <tr>
+<td style="width:410px">A. Cunningham. <i>"Why Do We Read? Eﬀects of Narrative Tension on Epistemic Curiosity and Information-Seeking Behavior."</i> Undergraduate Senior Thesis. 2025.
+<br><a href="papers/Thesis_Cunningham.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">P.Tham. <i>"Hyper-HMM: A novel computational neuroscientific approach in studying neuroplasticity."</i> Undergraduate Senior Thesis. 2025.
+<br><a href="papers/Thesis_Tham.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
+<td style="width:410px">J. Kim. <i>"Human Misidentification of Artificial Agents in Computer-Mediated Communication."</i> Undergraduate Senior Thesis. 2025.
+<br><a href="papers/Thesis_Kim.pdf">[pdf]</a></td>
+</tr>
+
+<tr>
 <td style="width:410px">H.T. Zeng. <i>"A Novel Board Game Paradigm for Studying the Acquisition of Overlapping Schemas."</i> Undergraduate Senior Thesis. 2024.
 <br><a href="papers/Zeng_TX_Thesis.pdf">[pdf]</a></td>
 </tr>
