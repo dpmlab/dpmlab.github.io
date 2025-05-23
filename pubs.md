@@ -4,7 +4,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_silver.png"></td>
-<td style="width:410px">B. Silver, \textbf{C. Baldassano}, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
+<td style="width:410px">B. Silver, C. Baldassano, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
 <br><a href="https://osf.io/preprints/osf/3tc4m_v1">[OSF link]</a>
 </td>
 </tr>
