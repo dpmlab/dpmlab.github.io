@@ -48,7 +48,20 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> bioRxiv, 2024.
+<td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
+<br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/predbound.jpg"></td>
+</tr>
+</table>
+
+
+
+
+## Journal Publications
+<table>
+<tr>
+<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> Nature Communications, in press.
 <br><a href="https://www.biorxiv.org/content/10.1101/2024.10.19.619187v1">[bioRxiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/mreye.png"></td>
@@ -57,28 +70,17 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:70px"><img src="icons/predbound.jpg"></td>
-<td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
-<br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width:410px">J. Huang, E. Furness, Y. Liu, M.-J. Kenmoe, R. Elias, H.T. Zeng, C. Baldassano. <i>"Accurate predictions facilitate robust memory encoding independently from stimulus probability."</i> PsyArXiv, 2023.
+<td style="width:70px"><img src="icons/pred4iar.jpg"></td>
+<td style="width:410px">J. Huang, E. Furness, Y. Liu, M.-J. Kenmoe, R. Elias, H.T. Zeng, C. Baldassano. <i>"Accurate predictions facilitate robust memory encoding independently from stimulus probability."</i> Open Mind, in press.
  <br><a href="https://osf.io/preprints/psyarxiv/dhzvc">[PsyArXiv link]</a>
 </td>
-<td style="width:70px"><img src="icons/pred4iar.jpg"></td>
 </tr>
 </table>
 
-
-## Journal Publications
 <table>
 <tr>
-<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Brain state dynamics reflect emotion transitions induced by music."</i> eNeuro, in press.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1">[bioRxiv link]</a>
+<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Emotions in the brain are dynamic and contextually dependent: using music to measure affective transitions."</i> eNeuro, in press.
+<br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1.abstract">[bioRxiv link]</a>
 <td style="width:70px"><img src="icons/sachs_icon.png"></td>
 </td>
 </tr>
@@ -88,7 +90,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <tr>
  <td style="width:70px"><img src="icons/ripple.jpg"></td>
 <td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla. <i> "Movie-watching evokes ripple-like activity within events and at event boundaries."</i> Nature Communications, in press.
- <br><a href="https://www.biorxiv.org/content/10.1101/2023.09.27.559739v1">[bioRxiv link]</a>
+<br><a href="https://doi.org/10.1038/s41467-025-60788-0">[journal link]</a> | <a href="papers/s41467-025-60788-0.pdf">[pdf w/ supplementary]</a>
 </td>
 </tr>
 </table>
@@ -96,7 +98,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">C. Durkin, M. Apicella, C. Baldassano, E. Kandel, D. Shohamy. <i>"The Beholder’s Share: Bridging art and neuroscience to study individual differences in subjective experience."</i> PNAS, 2025.
- <br><a href="https://www.pnas.org/doi/10.1073/pnas.2413871122">[journal link]</a> | <a href="papers/durkin2025.pdf">[pdf w/ supplementary]</a>
+<br><a href="https://www.pnas.org/doi/10.1073/pnas.2413871122">[journal link]</a> | <a href="papers/durkin2025.pdf">[pdf w/ supplementary]</a>
 </td>
 <td style="width:70px"><img src="icons/durkin2025.png"></td>
 </tr>
