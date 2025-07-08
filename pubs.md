@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">J.A. Williams, E.H. Margulis, C. Baldassano, U. Hasson, J. Chen, K.A. Norman. "Music-evoked reactivation during continuous perception is associated with enhanced subsequent recall of naturalistic events."</i> bioRxiv, 2025.
+<br><a href="https://www.biorxiv.org/content/10.1101/2025.07.05.663273v1">[bioRxiv link]</a>
+</td>
+ <td style="width:70px"><img src="icons/eternal.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/icon_silver.png"></td>
 <td style="width:410px">B. Silver, C. Baldassano, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
 <br><a href="https://osf.io/preprints/osf/3tc4m_v1">[OSF link]</a>
