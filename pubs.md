@@ -88,8 +88,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Emotions in the brain are dynamic and contextually dependent: using music to measure affective transitions."</i> eNeuro, in press.
-<br><a href="https://www.biorxiv.org/content/10.1101/2023.03.01.530528v1.abstract">[bioRxiv link]</a>
+<td style="width:410px">M.E. Sachs, M.S. Kozak, K.N. Ochsner, C. Baldassano. <i>"Emotions in the brain are dynamic and contextually dependent: using music to measure affective transitions."</i> eNeuro, 2025.
+<br><a href="https://doi.org/10.1523/ENEURO.0184-24.2025">[journal link]</a> | <a href="papers/ENEURO.0184-24.2025.full.pdf">[pdf]</a>
 <td style="width:70px"><img src="icons/sachs_icon.png"></td>
 </td>
 </tr>
