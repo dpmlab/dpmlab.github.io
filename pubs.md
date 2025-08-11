@@ -80,8 +80,8 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/pred4iar.jpg"></td>
-<td style="width:410px">J. Huang, E. Furness, Y. Liu, M.-J. Kenmoe, R. Elias, H.T. Zeng, C. Baldassano. <i>"Accurate predictions facilitate robust memory encoding independently from stimulus probability."</i> Open Mind, in press.
- <br><a href="https://osf.io/preprints/psyarxiv/dhzvc">[PsyArXiv link]</a>
+<td style="width:410px">J. Huang, E. Furness, Y. Liu, M.-J. Kenmoe, R. Elias, H.T. Zeng, C. Baldassano. <i>"Accurate predictions facilitate robust memory encoding independently from stimulus probability."</i> Open Mind, 2025.
+<br><a href="https://doi.org/10.1162/opmi.a.14">[journal link]</a> | <a href="papers/opmi.a.14.pdf">[pdf]</a>
 </td>
 </tr>
 </table>
