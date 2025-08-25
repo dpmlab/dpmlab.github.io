@@ -71,7 +71,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> Nature Communications, in press.
-<br><a href="https://www.biorxiv.org/content/10.1101/2024.10.19.619187v1">[bioRxiv link]</a>
+<br><a href="https://doi.org/10.1038/s41467-025-62375-9">[journal link]</a> | <a href="papers/s41467-025-62375-9.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/mreye.png"></td>
 </tr>
