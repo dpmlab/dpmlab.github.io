@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The Hippocampus Rapidly Integrates Sequence Representations During Novel Multistep Predictions."</i> bioRxiv, 2025.
+<br><a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676324v1">[bioRxiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/schext_icon.png"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/narjes_icon.png"></td>
 <td style="width:410px">N. Al-Zahli, M. Aly, C. Baldassano. <i>"Repeated Viewing of a Narrative Movie Changes Event Timescales in The Brain."</i> bioRxiv, 2025.
 <br><a href="https://www.biorxiv.org/content/10.1101/2025.08.27.672403v1">[bioRxiv link]</a>
