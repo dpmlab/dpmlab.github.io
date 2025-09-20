@@ -173,7 +173,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/imgtofmri.png"></td>
-<td style="width:410px">M. Bennett, C. Baldassano. <i>"imgtofmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i> Aperture Neuro, 2023.
+<td style="width:410px">M. Bennett, C. Baldassano. <i>"img2fmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks."</i> Aperture Neuro, 2023.
  <br><a href="https://doi.org/10.52294/001c.87545">[journal link]</a> | <a href="papers/87545-img2fmri.pdf">[pdf]</a> | <a href="https://github.com/dpmlab/imgtofmri">[GitHub link]</a>
 </td>
 </tr>
