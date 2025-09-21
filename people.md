@@ -132,7 +132,7 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"></td>
+<td style="width:200px"><img src="img/SKhadka.JPG"></td>
 <td style="width:280px"><b>Sudheshna Khadka</b>: Sudheshna is a senior at Barnard studying Cognitive Science. Her thesis will center on the intersections of film, music, and cognition, with a particular focus on how people experience time and narrative. Around campus, she serves as the Technical Coordinator for King’s Crown Shakespeare Troupe, is an active member of AOII, and a committee chair for Barnard’s New Student Orientation Program. Beyond the academic environment, she can be found enjoying films, roller-skating, or spending time with her friends.
 <br>
 </td>
