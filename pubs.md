@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:70px"><img src="icons/SPOT_icon.png"></td>
+<td style="width:410px">Z. Hirschstein, M. Aly, C. Baldassano.<i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
+<br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The Hippocampus Rapidly Integrates Sequence Representations During Novel Multistep Predictions."</i> bioRxiv, 2025.
 <br><a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676324v1">[bioRxiv link]</a>
 </td>
