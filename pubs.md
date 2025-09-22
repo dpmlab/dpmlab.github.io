@@ -4,7 +4,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/SPOT_icon.png"></td>
-<td style="width:410px">Z. Hirschstein, M. Aly, C. Baldassano.<i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
+<td style="width:410px">Z. Hirschstein, M. Aly, C. Baldassano. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
 <br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
 </td>
 </tr>
