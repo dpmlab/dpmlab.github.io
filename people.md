@@ -56,6 +56,24 @@
 </tr>
 </table>
 
+## Postbac and MS students
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/KChee.png"></td>
+<td style="width:280px"><b>KyungHwan Chee</b>: Kyunghwan is a postbacc student at Columbia University studying psychology. He is interested in learning about memory and time, especially understanding the components of memory. In his free time, he enjoys running and exploring the city.
+<br>
+</td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Xinran Liu</b>: Xinran is a post-baccalaureate student at Columbia University pursuing a psychology certificate. She is interested in how music features are represented in the brain and how music shapes cognitive processes. In her free time, she enjoys playing the piano, singing, and writing fanfiction.
+<br>
+</td>
+<td style="width:200px"><img src="img/xinran.png"></td>
+</tr>
+</table>
 
 ## Undergraduate RAs and Thesis students
 <table style="width:100%">
@@ -109,24 +127,6 @@
 <br>
 </td>
 <td style="width:200px"><img src="img/LQuick.jpg"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/KChee.png"></td>
-<td style="width:280px"><b>KyungHwan Chee</b>: Kyunghwan is a postbacc student at Columbia University studying psychology. He is interested in learning about memory and time, especially understanding the components of memory. In his free time, he enjoys running and exploring the city.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Xinran Liu</b>: Xinran is a post-baccalaureate student at Columbia University pursuing a psychology certificate. She is interested in how music features are represented in the brain and how music shapes cognitive processes. In her free time, she enjoys playing the piano, singing, and writing fanfiction.
-<br>
-</td>
-<td style="width:200px"><img src="img/xinran.png"></td>
 </tr>
 </table>
 
