@@ -148,6 +148,14 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/Joselyn.jpg"></td>
+<td style="width:280px"><b>Joselyn Ellis</b>: Joselyn is a senior at Columbia GS, majoring in Cognitive Science. Originally from Honduras, she is interested in how bilingualism shapes memory and learning. For her senior thesis, she will explore the nuances of language-dependent memory, investigating how the language present during encoding and retrieval impacts a multilingual learner's ability to retain academic information. In her free time, she enjoys walking with her dog in Central Park.
+<br>
+</td>
+</tr>
+</table>
 
 
 ## Former Lab Members
