@@ -75,19 +75,10 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:70px"><img src="icons/palace.png"></td>
-<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano. <i>"How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects."</i> bioRxiv, 2024.
-<br><a href="https://doi.org/10.1101/2024.11.26.625465">[bioRxiv link]</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
+<td style="width:70px"><img src="icons/predbound.jpg"></td>
 <td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
 <br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
 </td>
-<td style="width:70px"><img src="icons/predbound.jpg"></td>
 </tr>
 </table>
 
@@ -97,7 +88,16 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Journal Publications
 <table>
 <tr>
-<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> Nature Communications, in press.
+<td style="width:70px"><img src="icons/palace.png"></td>
+<td style="width:410px">R. Masís-Obando, K.A. Norman, C. Baldassano. <i>"Spatial contexts with reliable neural representations support reinstatement of subsequently placed objects."</i> Nature Human Behaviour, 2026.
+<br><a href="https://doi.org/10.1038/s41562-025-02379-z">[journal link]</a> | <a href="papers/s41562-025-02379-z.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:410px">M. Nau, A. Greene, H. Tarder-Stoll, J.A. Lossio-Ventura, F. Pereira, J. Chen, C. Baldassano, and C.I. Baker. <i>"Neural and behavioral reinstatement jointly reflect retrieval of narrative events."</i> Nature Communications, 2025.
 <br><a href="https://doi.org/10.1038/s41467-025-62375-9">[journal link]</a> | <a href="papers/s41467-025-62375-9.pdf">[pdf]</a>
 </td>
 <td style="width:70px"><img src="icons/mreye.png"></td>
