@@ -3,6 +3,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
+<td style="width:410px">T.A. Chamberlain, D. Shohamy, C. Baldassano. <i>"Prioritizing detailed item memories through post-encoding motivation requires consolidation."</i> PsyArXiv, 2026.
+<br><a href="https://osf.io/preprints/psyarxiv/7tn9f_v1">[PsyArXiv link]</a>
+</td>
+<td style="width:70px"><img src="icons/mot_icon.jpg"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width:70px"><img src="icons/SPOT_icon.png"></td>
 <td style="width:410px">Z. Hirschstein, M. Aly, C. Baldassano. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
 <br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
