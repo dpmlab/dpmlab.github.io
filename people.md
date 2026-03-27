@@ -21,7 +21,7 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Emily Meschke</b>: Emily's research investigates how attention shapes the flow of information across the brain, and the degree to which semantic representations support complex behavior, such as narrative recall and decision making. Before joining the DPM and Aly Labs, she earned her PhD in Neuroscience with Dr. Jack Gallant at UC Berkeley, where she examined how task and attentional state modulate semantic networks in the human brain. In her free time, she enjoys knitting and taking long walks with her pug-mix Delilah.After finishing her Integrated BSE/MSE in Biomedical and Biophysical Engineering, Marta joined the University of Barcelona for her doctoral students which were completed in 2023. In her work she focuses on breaking new ground on how memories from one's past get represented in the brain by tracking, prospectively, essential electrophysiology properties for everyone’s real-life episodic event experience.
+<td style="width:280px"><b>Emily Meschke</b>: Emily's research investigates how attention shapes the flow of information across the brain, and the degree to which semantic representations support complex behavior, such as narrative recall and decision making. Before joining the DPM and Aly Labs, she earned her PhD in Neuroscience with Dr. Jack Gallant at UC Berkeley, where she examined how task and attentional state modulate semantic networks in the human brain. In her free time, she enjoys knitting and taking long walks with her pug-mix Delilah.
 <br>
 </td>
 <td style="width:200px"><img src="img/emeschke.jpg"></td>
