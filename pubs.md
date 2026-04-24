@@ -57,10 +57,10 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">Y. Abir, J. Mok, C. Baldassano, C. Marvin, D. Shohamy. <i>"Learning Reinforces Curiosity."</i> PsyArXiv, 2025.
-<br><a href="https://osf.io/preprints/psyarxiv/9bw6j_v2">[OSF link]</a>
+<td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano. <i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
+<br><a href="https://doi.org/10.1101/2024.12.19.629352">[bioRxiv link]</a>
 </td>
-<td style="width:70px"><img src="icons/icon_yaniv.png"></td>
+<td style="width:70px"><img src="icons/mol.png"></td>
 </tr>
 </table>
 
@@ -75,19 +75,10 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano. <i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> bioRxiv, 2024.
-<br><a href="https://doi.org/10.1101/2024.12.19.629352">[bioRxiv link]</a>
-</td>
-<td style="width:70px"><img src="icons/mol.png"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width:70px"><img src="icons/predbound.jpg"></td>
 <td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
 <br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
 </td>
+<td style="width:70px"><img src="icons/predbound.jpg"></td>
 </tr>
 </table>
 
@@ -95,6 +86,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:410px">Y. Abir, J. Mok, C. Baldassano, C. Marvin, D. Shohamy. <i>"Learning reinforces curiosity for related information."</i> PNAS, 2026.
+<br><a href="https://doi.org/10.1073/pnas.2529176123">[journal link]</a> | <a href="papers/abir-et-al-2026-learning-reinforces-curiosity-for-related-information.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/icon_yaniv.png"></td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:70px"><img src="icons/palace.png"></td>
