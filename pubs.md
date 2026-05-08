@@ -12,7 +12,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:410px">Z. Hirschstein, M. Aly, C. Baldassano. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
+<td style="width:410px">Z. Hirschstein, M. Aly*, C. Baldassano*. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
 <br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
 </td>
 <td style="width:70px"><img src="icons/SPOT_icon.png"></td>
@@ -80,7 +80,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
 <td style="width:70px"><img src="icons/narjes_icon.png"></td>
-<td style="width:410px">N. Al-Zahli, M. Aly, C. Baldassano. <i>"Repeated Viewing of a Film Clip Changes Event Timescales in the Brain."</i> Journal of Neuroscience, 2026.
+<td style="width:410px">N. Al-Zahli, M. Aly*, C. Baldassano*. <i>"Repeated Viewing of a Film Clip Changes Event Timescales in the Brain."</i> Journal of Neuroscience, 2026.
 <br><a href="https://doi.org/10.1523/JNEUROSCI.1657-25.2026">[journal link]</a> | <a href="papers/e1657252026.full.pdf">[pdf]</a>
 </td>
 </tr>
