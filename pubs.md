@@ -3,27 +3,18 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:70px"><img src="icons/mot_icon.jpg"></td>
 <td style="width:410px">T.A. Chamberlain, D. Shohamy, C. Baldassano. <i>"Prioritizing detailed item memories through post-encoding motivation requires consolidation."</i> PsyArXiv, 2026.
 <br><a href="https://osf.io/preprints/psyarxiv/7tn9f_v1">[PsyArXiv link]</a>
 </td>
+<td style="width:70px"><img src="icons/mot_icon.jpg"></td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td style="width:70px"><img src="icons/SPOT_icon.png"></td>
 <td style="width:410px">Z. Hirschstein, M. Aly*, C. Baldassano*. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
 <br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
-</td>
-<td style="width:70px"><img src="icons/SPOT_icon.png"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width:70px"><img src="icons/schext_icon.png"></td>
-<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The Hippocampus Rapidly Integrates Sequence Representations During Novel Multistep Predictions."</i> bioRxiv, 2025.
-<br><a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676324v1">[bioRxiv link]</a>
 </td>
 </tr>
 </table>
@@ -68,6 +59,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:70px"><img src="icons/schext_icon.png"></td>
+<td style="width:410px">H. Tarder-Stoll, C. Baldassano*, M. Aly*. <i>"The hippocampus rapidly integrates sequence representations during novel multistep predictions."</i> Philosophical Transactions of the Royal Society B: Biological Sciences, 2026.
+<br><a href="https://doi.org/10.1098/rstb.2025.0237">[journal link]</a> | <a href="papers/rstb.2025.0237.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:410px">J. Huang, A. Manglik, N. Dutra, H. Tarder-Stoll, T. Chamberlain, R. Ajemian, Q. Zhang, K.A. Norman, C. Baldassano. <i>"Binding items to contexts through conjunctive neural representations with the Method of Loci."</i> Nature Communications, 2026.
