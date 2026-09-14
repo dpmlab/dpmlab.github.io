@@ -56,35 +56,7 @@
 </tr>
 </table>
 
-## Postbac and MS students
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/KChee.png"></td>
-<td style="width:280px"><b>KyungHwan Chee</b>: Kyunghwan is a postbacc student at Columbia University studying psychology. He is interested in learning about memory and time, especially understanding the components of memory. In his free time, he enjoys running and exploring the city.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Xinran Liu</b>: Xinran is a post-baccalaureate student at Columbia University pursuing a psychology certificate. She is interested in how music features are represented in the brain and how music shapes cognitive processes. In her free time, she enjoys playing the piano, singing, and writing fanfiction.
-<br>
-</td>
-<td style="width:200px"><img src="img/xinran.png"></td>
-</tr>
-</table>
-
 ## Undergraduate RAs and Thesis students
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/GCalabia.jpg"></td>
-<td style="width:280px"><b>Gabriella Calabia</b>: Gabriella is an I.I. Rabi Research Scholar at Columbia College studying Cognitive Science and English literature. She investigates memory, time, and the conceptualization of narratives through the intersection of neuroscience and film. Gabriella is also an editor on <i>The Gadfly</i>, Columbia’s philosophy magazine, and vice president of the Columbia Undergrad Sketch Show. Outside of the lab, she loves hiking, skiing, and painting.
-<br>
-</td>
-</tr>
-</table>
-
 <table style="width:100%">
 <tr>
 <td style="width:280px"><b>Caroline (Dana) Lauren Villamin</b>: Caroline is a Class of ’27 undergraduate at Barnard College studying Cognitive Science. She is interested in applying her background in linguistics to research how memory is organized in the brain in relation to language processing. In her free time she likes to play guitar, explore the city, and collect vintage postcards.
@@ -106,52 +78,17 @@
 
 <table style="width:100%">
 <tr>
-<td style="width:280px"><b>Erika Gonzalez</b>: Erika is a class of ‘26 pre-medical student at Columbia College studying Neuroscience and Behavior. Her research interests lie in mentalizing networks. For her senior thesis, she will investigate the possibility of cross-modal synchrony in event boundaries to develop a model for studying multi-sensory deficits in clinical populations. In her free time, she enjoys exploring the city, dancing, and hiking.
+<td style="width:280px"><b>Siddharth Maharishi</b>: Siddharth is a Columbia University undergraduate, Class of 2027, majoring in Neuroscience and Behavior with minors in Mathematics and Chemistry. He plans to become a physician-scientist and is conducting a senior thesis in the DPM Lab. His research interests include neural representations, memory, and event cognition, with broader interests in clinical and translational neuroscience, particularly trauma and the self. He is also co-founder and CEO of Elyzia, a health technology startup. More about his work is available at <a href="http://linkedin.com/in/siddharthmaharishi">linkedin.com/in/siddharthmaharishi</a>. 
 <br>
 </td>
-<td style="width:200px"><img src="img/EGonzalez.jpg"></td>
+<td style="width:200px"><img src="img/Siddharth.png"></td>
 </tr>
 </table>
 
 <table style="width:100%">
 <tr>
-<td style="width:200px"><img src="img/SParikh.jpeg"></td>
-<td style="width:280px"><b>Sareena Parikh</b>: Sareena is a senior at Barnard College studying Cognitive Science with a concentration in AI. She is eager to learn about how competition and cooperation impact memory and look at the long-term impact it has on a typical classroom learning environment. In her free time, she enjoys reading, playing sports, and spending time with friends.
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Leandra Quick</b>: Leandra is a class of ‘26 undergraduate at Barnard College studying Psychology and Art History. She is interested in the perception and expression of art, hoping to study and learn more about the individual self and how imagination, mannerisms, and thought patterns impact memory. In her free time, she enjoys going to museums, taking long walks with friends, and listening to music.
-<br>
-</td>
-<td style="width:200px"><img src="img/LQuick.jpg"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/SKhadka.JPG"></td>
-<td style="width:280px"><b>Sudheshna Khadka</b>: Sudheshna is a senior at Barnard studying Cognitive Science. Her thesis will center on the intersections of film, music, and cognition, with a particular focus on how people experience time and narrative. Around campus, she serves as the Technical Coordinator for King’s Crown Shakespeare Troupe, is an active member of AOII, and a committee chair for Barnard’s New Student Orientation Program. Beyond the academic environment, she can be found enjoying films, roller-skating, or spending time with her friends.
-<br>
-</td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:280px"><b>Paulina Bertilsson</b>: Paulina is a senior at Barnard College majoring in Neuroscience, where her research explores how the brain processes language and memory. She also brings experience from venture capital, where she analyzed biotech and AI companies at the intersection of science and business strategy. Outside of academics, Paulina enjoys running, cooking, and building intricate Lego sets.
-<br>
-</td>
-<td style="width:200px"><img src="img/PBertilsson.png"></td>
-</tr>
-</table>
-
-<table style="width:100%">
-<tr>
-<td style="width:200px"><img src="img/Joselyn.jpg"></td>
-<td style="width:280px"><b>Joselyn Ellis</b>: Joselyn is a senior at Columbia GS, majoring in Cognitive Science. Originally from Honduras, she is interested in how bilingualism shapes memory and learning. For her senior thesis, she will explore the nuances of language-dependent memory, investigating how the language present during encoding and retrieval impacts a multilingual learner's ability to retain academic information. In her free time, she enjoys walking with her dog in Central Park.
+<td style="width:200px"><img src="img/Johnny.jpg"></td>
+<td style="width:280px"><b>Johnny Simmons</b>: Johnny is a junior at Columbia University, majoring in Psychology. An actor in film, he is interested in neural coupling, the way listeners' brain activity falls into step with the storyteller's and with one another's as a story unfolds. This semester he is reading the imaging research on how that coupling rises and falls with engagement, and asking what changes when an audience is in the room with a performer instead of watching a screen. In his free time, he enjoys photography and writing.
 <br>
 </td>
 </tr>
@@ -172,8 +109,17 @@
 <b>Postbac/MS students</b>
 * Narjes Al-Zahli
 * <a href="https://maxs.world/">Max Bennett</a>
+* KyungHwan Chee
+* Xinran Liu
 
 <b>Undergraduate students</b>
+* Sudheshna Khadka
+* Paulina Bertilsson
+* Joselyn Ellis
+* Leandra Quick
+* Sareena Parikh
+* Erika Gonzalez
+* Gabriella Calabia
 * Katie Mae Peters
 * Yifang Liu
 * Hannah Zeng
