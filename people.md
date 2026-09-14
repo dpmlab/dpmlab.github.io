@@ -56,6 +56,16 @@
 </tr>
 </table>
 
+## Postbac students
+<table style="width:100%">
+<tr>
+<td style="width:200px"><img src="img/sophia.jpg"></td>
+<td style="width:280px"><b>Sophia Lukac</b>: Sophia is a Post-Baccalaureate Certificate student studying Psychology at Columbia. She graduated from Rutgers University with a B.A. in Cell Biology and Neuroscience. Sophia is also a research assistant with the Developmental Affective Neuroscience Lab at Columbia. Her research passions include memory, neuropsychology, and neurodevelopment and behavior.
+<br>
+</td>
+</tr>
+</table>
+
 ## Undergraduate RAs and Thesis students
 <table style="width:100%">
 <tr>
