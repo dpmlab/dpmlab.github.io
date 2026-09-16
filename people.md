@@ -104,6 +104,15 @@
 </tr>
 </table>
 
+<table style="width:100%">
+<tr>
+<td style="width:280px"><b>Ashlynn Alexander</b>: Ashlynn is a senior at Columbia GS majoring in Cognitive Science. She is interested in a research career focused on differential cognitive processing in autistic populations, and her senior thesis will compare loss aversion levels in autistic adults for monetary losses versus special-interest-related losses. Outside of academia, Ashlynn loves beaches, museums, and seeing as many Broadway shows as she can. 
+<br>
+</td>
+<td style="width:200px"><img src="img/Ashlynn.jpg"></td>
+</tr>
+</table>
+
 
 ## Former Lab Members
 <b>Postdocs</b>
