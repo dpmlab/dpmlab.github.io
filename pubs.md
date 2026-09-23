@@ -21,28 +21,19 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 <table>
 <tr>
-<td style="width:70px"><img src="icons/icon_silver.png"></td>
-<td style="width:410px">B. Silver, C. Baldassano, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> OSF, 2025.
-<br><a href="https://osf.io/preprints/osf/3tc4m_v1">[OSF link]</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
+<td style="width:70px"><img src="icons/icon_house.png"></td>
 <td style="width:410px">C.S. Lee, S.S. Cohen, S. Hutchinson,  N. Tottenham,  C. Baldassano. <i>"Past and present caregiving experiences impact prefrontal connectivity and recall for attachment-schema narratives."</i> bioRxiv, 2025.
 <br><a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612953v2">[bioRxiv link]</a>
 </td>
-<td style="width:70px"><img src="icons/icon_house.png"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width:70px"><img src="icons/predbound.jpg"></td>
 <td style="width:410px">S. Shim, F.B. Mugisho, L. Davachi, C. Baldassano. <i>"Generating event boundaries in memory without prediction error."</i> PsyArXiv, 2024.
 <br><a href="https://osf.io/preprints/psyarxiv/4bdp6">[PsyArXiv link]</a>
 </td>
+<td style="width:70px"><img src="icons/predbound.jpg"></td>
 </tr>
 </table>
 
@@ -50,6 +41,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:70px"><img src="icons/icon_silver.png"></td>
+<td style="width:410px">B. Silver, C. Baldassano, L. Davachi, K. Ochsner. <i>"The mentalizing network updates neural representations of romantic interest in response to social feedback."</i> Social Cognitive and Affective Neuroscience, 2026.
+<br><a href="https://doi.org/10.1093/scan/nsag074">[journal link]</a> | <a href="papers/nsag074.pdf">[pdf]</a>
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:410px">T.A. Chamberlain, D. Shohamy, C. Baldassano. <i>"Prioritizing Detailed Item Memories Through Post-Encoding Motivation Requires Consolidation."</i> Open Mind, 2026.
