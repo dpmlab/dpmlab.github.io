@@ -134,7 +134,7 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 <table>
 <tr>
  <td style="width:70px"><img src="icons/ripple.jpg"></td>
-<td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla. <i> "Movie-watching evokes ripple-like activity within events and at event boundaries."</i> Nature Communications, in press.
+<td style="width:410px">M. Silva,  X. Wu,  M. Sabio,  E. Conde-Blanco,  P. Roldan,  A. Donaire, M. Carreno,  N. Axmacher, C. Baldassano,  L. Fuentemilla. <i> "Movie-watching evokes ripple-like activity within events and at event boundaries."</i> Nature Communications, 2025.
 <br><a href="https://doi.org/10.1038/s41467-025-60788-0">[journal link]</a> | <a href="papers/s41467-025-60788-0.pdf">[pdf w/ supplementary]</a>
 </td>
 </tr>
