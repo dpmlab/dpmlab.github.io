@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td style="width:410px"><i>"Why Do Places Bring Old Memories Flooding Back?"</i> AM 1150 Bianca's Bizarre podcast, October 9, 2026.
-<br><a href="https://www.am1150.ca/podcast/biancas-bizarre-why-do-places-bring-old-memories-flooding-back/">[podcast link]</a>
+<td style="width:410px"><i>"Why Do Places Bring Old Memories Flooding Back?"</i> AM 1150 Bianca's Bizarre, October 9, 2026.
+<br><a href="https://www.am1150.ca/podcast/biancas-bizarre-why-do-places-bring-old-memories-flooding-back/">[interview link]</a>
 </td>
 <td style="width:70px"><img src="icons/media/am1150.jpg" width="70" height="70"></td>
 </tr>
@@ -67,7 +67,7 @@
 <tr>
 <td style="width:70px"><img src="icons/media/academicminute.jpg" width="70" height="70"></td>
 <td style="width:410px"><i>"The Brain Organizes Narratives Into Meaningful Event Memories."</i> The Academic Minute, June 4, 2025.
-<br><a href="https://www.aacu.org/podcasts/academicminute/2025-06-christopher-baldassano-columbia-university-the-brain-organizes-narratives-into-meaningful-event-memories">[podcast link]</a>
+<br><a href="https://www.academicminute.org/p/best-of-the-academic-minute-in-2025-339">[interview link]</a>
 </td>
 </tr>
 </table>
