@@ -125,3 +125,12 @@
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td style="width:410px"><i>"Building Memories in the Brain."</i> TEDxCarnegieLake talk, October 28, 2017.
+<br><a href="https://www.youtube.com/watch?v=D-aPGXXIYZc">[video link]</a>
+</td>
+<td style="width:70px"><img src="icons/media/tedx.jpg" width="70" height="70"></td>
+</tr>
+</table>
