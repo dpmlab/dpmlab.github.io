@@ -3,15 +3,6 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 ## Public Preprints
 <table>
 <tr>
-<td style="width:70px"><img src="icons/SPOT_icon.png"></td>
-<td style="width:410px">Z. Hirschstein, M. Aly*, C. Baldassano*. <i>"Decoupling lower-level and higher-level visual features in naturalistic scenes."</i> PsyArXiv, 2025.
-<br><a href="https://doi.org/10.31234/osf.io/unv5g_v1">[PsyArXiv link]</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td style="width:410px">J.A. Williams, E.H. Margulis, C. Baldassano, U. Hasson, J. Chen, K.A. Norman. <i>"Music-evoked reactivation during continuous perception is associated with enhanced subsequent recall of naturalistic events."</i> bioRxiv, 2025.
 <br><a href="https://www.biorxiv.org/content/10.1101/2025.07.05.663273v1">[bioRxiv link]</a>
 </td>
@@ -41,6 +32,15 @@ Copyright Notice: These materials are presented to ensure timely dissemination o
 
 
 ## Journal Publications
+<table>
+<tr>
+<td style="width:410px">Z. Hirschstein, M. Aly*, C. Baldassano*. <i>"The SPOT Grid: Naturalistic images with predefined settings, patterns, objects, and textures."</i> Behavior Research Methods, 2026.
+<br><a href="https://doi.org/10.3758/s13428-026-03211-w">[journal link]</a> | <a href="papers/s13428-026-03211-w.pdf">[pdf]</a>
+</td>
+<td style="width:70px"><img src="icons/SPOT_icon.png"></td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td style="width:70px"><img src="icons/icon_silver.png"></td>
